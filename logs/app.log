@@ -1,0 +1,1474 @@
+[March 14th 2016, 11:29:42 am] Listening server on port 8080
+[March 14th 2016, 11:35:43 am] Listening server on port 8080
+[March 14th 2016, 11:35:43 am] POST /apiv2
+[March 14th 2016, 11:35:43 am] POST /apiv2/login
+[March 14th 2016, 11:35:43 am] GET /apiv2/android
+[March 14th 2016, 11:35:43 am] GET /apiv2/android
+[March 14th 2016, 11:35:43 am] POST /apiv2/login
+[March 14th 2016, 11:35:43 am] GET /apiv2/android
+[March 14th 2016, 11:35:43 am] Userid: testuser
+[March 14th 2016, 11:35:43 am] POST /apiv2/login
+[March 14th 2016, 11:35:43 am] POST /apiv2/android
+[March 14th 2016, 11:39:17 am] Listening server on port 8080
+[March 14th 2016, 11:39:17 am] GET /apiv2/android
+[March 14th 2016, 11:39:17 am] Userid: testuser
+[March 14th 2016, 11:39:17 am] GET /apiv2/android
+[March 14th 2016, 11:39:17 am] Userid: testuser
+[March 14th 2016, 11:39:17 am] GET /apiv2/android
+[March 14th 2016, 11:39:17 am] Userid: testuser
+[March 14th 2016, 11:46:47 am] Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at Server._listen2 (net.js:1234:14)
+    at listen (net.js:1270:10)
+    at Server.listen (net.js:1366:5)
+    at EventEmitter.listen (/home/pi/miniproject/node_modules/express/lib/application.js:617:24)
+    at Object.<anonymous> (/home/pi/miniproject/app.js:75:18)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+[March 14th 2016, 11:46:58 am] Listening server on port 8080
+[March 14th 2016, 11:46:58 am] GET /apiv2/off
+[March 14th 2016, 11:46:58 am] Userid: testuser
+[March 14th 2016, 11:46:58 am] GET /apiv2/on
+[March 14th 2016, 11:46:58 am] GET /apiv2/off
+[March 14th 2016, 11:46:58 am] Userid: testuser
+[March 14th 2016, 11:46:58 am] GET /apiv2/on
+[March 14th 2016, 11:46:58 am] GET /apiv2/off
+[March 14th 2016, 11:46:58 am] Userid: testuser
+[March 14th 2016, 11:46:58 am] GET /apiv2/on
+[March 14th 2016, 11:46:58 am] GET /apiv2/on
+[March 14th 2016, 11:46:58 am] GET /apiv2/off
+[March 14th 2016, 11:46:58 am] Userid: testuser
+[March 14th 2016, 11:46:58 am] GET /apiv2/off
+[March 14th 2016, 11:46:58 am] Userid: testuser
+[March 14th 2016, 12:41:39 pm] Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at Server._listen2 (net.js:1234:14)
+    at listen (net.js:1270:10)
+    at Server.listen (net.js:1366:5)
+    at EventEmitter.listen (/home/pi/miniproject/node_modules/express/lib/application.js:617:24)
+    at Object.<anonymous> (/home/pi/miniproject/app.js:75:18)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+[March 14th 2016, 11:46:58 am] GET /apiv2/on
+[March 14th 2016, 11:46:58 am] GET /apiv2/off
+[March 14th 2016, 11:46:58 am] GET /apiv2/off
+[March 14th 2016, 11:46:58 am] GET /apiv2/off
+[March 14th 2016, 11:46:58 am] Userid: testuser
+[March 14th 2016, 11:46:58 am] GET /apiv2/on
+[March 14th 2016, 11:46:58 am] GET /apiv2/off
+[March 14th 2016, 11:46:58 am] Userid: testuser
+[March 14th 2016, 11:46:58 am] GET /apiv2/on
+[March 14th 2016, 1:21:30 pm] Listening server on port 8080
+[March 14th 2016, 1:21:30 pm] POST /api/login
+[March 14th 2016, 1:24:51 pm] Listening server on port 8080
+[March 14th 2016, 1:24:51 pm] GET /api/14/off
+[March 14th 2016, 1:24:51 pm] Userid: testuser
+[March 14th 2016, 1:24:51 pm] GET /api/light/14/off
+[March 14th 2016, 1:24:51 pm] Userid: testuser
+[March 14th 2016, 1:24:51 pm] GET /api/light/14/on
+[March 14th 2016, 1:24:51 pm] Userid: testuser
+[March 14th 2016, 1:27:25 pm] Listening server on port 8080
+[March 14th 2016, 1:27:25 pm] POST /api/login
+[March 14th 2016, 1:27:25 pm] GET /api/light/14/on
+[March 14th 2016, 1:27:25 pm] Userid: testuser
+[March 14th 2016, 1:27:25 pm] Num: undefined, State: undefined
+[March 14th 2016, 1:27:25 pm] POST /api/login
+[March 14th 2016, 1:29:48 pm] Listening server on port 8080
+[March 14th 2016, 1:29:48 pm] GET /api/light/14/on?num=1
+[March 14th 2016, 1:29:48 pm] Userid: testuser
+[March 14th 2016, 1:29:48 pm] Num: undefined, State: undefined
+[March 14th 2016, 1:29:48 pm] GET /api/light/?num=1
+[March 14th 2016, 1:29:48 pm] Userid: testuser
+[March 14th 2016, 1:29:48 pm] GET /api/light
+[March 14th 2016, 1:29:48 pm] Userid: testuser
+[March 14th 2016, 1:29:48 pm] GET /api/light/
+[March 14th 2016, 1:29:48 pm] Userid: testuser
+[March 14th 2016, 1:29:48 pm] GET /api/light/125/125
+[March 14th 2016, 1:29:48 pm] Userid: testuser
+[March 14th 2016, 1:29:48 pm] Num: undefined, State: undefined
+[March 14th 2016, 1:32:46 pm] Listening server on port 8080
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/off
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: off
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: on
+[March 14th 2016, 1:32:46 pm] POST /api/login
+[March 14th 2016, 1:32:46 pm] GET /api/light/12/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 12, State: on
+[March 14th 2016, 1:32:46 pm] GET /api/light/12/off
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 12, State: off
+[March 14th 2016, 1:32:46 pm] POST /api/login
+[March 14th 2016, 1:32:46 pm] GET /api/14/on
+[March 14th 2016, 1:32:46 pm] GET /api/light/12/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 12, State: on
+[March 14th 2016, 1:32:46 pm] POST /api/login
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/on
+[March 14th 2016, 1:32:46 pm] POST /api/login
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: on
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: on
+[March 14th 2016, 1:32:46 pm] GET /api/light/12/off
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 12, State: off
+[March 14th 2016, 1:32:46 pm] GET /api/light/12/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 12, State: on
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/off
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: off
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: on
+[March 14th 2016, 1:32:46 pm] POST /api/login
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: on
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: on
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: on
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: on
+[March 14th 2016, 1:32:46 pm] POST /api/login
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: on
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/off
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: off
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/off
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: off
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/off
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: off
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: on
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/off
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: off
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: on
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/off
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: off
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: on
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/off
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: off
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: on
+[March 14th 2016, 1:32:46 pm] POST /api/login
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: on
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/off
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: off
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: on
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/off
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: off
+[March 14th 2016, 1:32:46 pm] GET /api/light/14/on
+[March 14th 2016, 1:32:46 pm] Userid: testuser
+[March 14th 2016, 1:32:46 pm] Num: 14, State: on
+[March 14th 2016, 1:51:50 pm] Listening server on port 8080
+[March 14th 2016, 1:51:50 pm] GET /api/light
+[March 14th 2016, 1:51:50 pm] Userid: testuser
+[March 14th 2016, 1:51:50 pm] GET /api/light/14
+[March 14th 2016, 1:51:50 pm] Userid: testuser
+[March 14th 2016, 1:51:50 pm] GET /api/light/14/off
+[March 14th 2016, 1:51:50 pm] Userid: testuser
+[March 14th 2016, 1:51:50 pm] GET /api/light/14/on
+[March 14th 2016, 1:51:50 pm] Userid: testuser
+[March 14th 2016, 1:51:50 pm] GET /api/light
+[March 14th 2016, 1:51:50 pm] Userid: testuser
+[March 14th 2016, 1:55:27 pm] Listening server on port 8080
+[March 14th 2016, 1:55:27 pm] GET /api/light/14
+[March 14th 2016, 1:55:27 pm] Userid: testuser
+[March 14th 2016, 1:56:39 pm] Listening server on port 8080
+[March 14th 2016, 1:56:39 pm] GET /api/light/14
+[March 14th 2016, 1:56:39 pm] Userid: testuser
+[March 14th 2016, 1:56:39 pm] GET /api/light/14/off
+[March 14th 2016, 1:56:39 pm] Userid: testuser
+[March 14th 2016, 1:56:39 pm] GET /api/light/14/on
+[March 14th 2016, 1:56:39 pm] Userid: testuser
+[March 14th 2016, 1:56:39 pm] POST /api/login
+[March 14th 2016, 1:56:39 pm] GET /api/light/14/on
+[March 14th 2016, 1:56:39 pm] Userid: testuser
+[March 14th 2016, 1:56:39 pm] GET /api/light/14/off
+[March 14th 2016, 1:56:39 pm] Userid: testuser
+[March 14th 2016, 1:56:39 pm] GET /api/light/14/on
+[March 14th 2016, 1:56:39 pm] Userid: testuser
+[March 14th 2016, 1:56:39 pm] GET /api/light/14/off
+[March 14th 2016, 1:56:39 pm] Userid: testuser
+[March 14th 2016, 1:56:39 pm] GET /api/light/14/on
+[March 14th 2016, 1:56:39 pm] Userid: testuser
+[March 14th 2016, 1:56:39 pm] GET /api/light/14/off
+[March 14th 2016, 1:56:39 pm] Userid: testuser
+[March 14th 2016, 1:56:39 pm] GET /api/light/14/on
+[March 14th 2016, 1:56:39 pm] Userid: testuser
+[March 14th 2016, 1:56:39 pm] GET /api/light/14/off
+[March 14th 2016, 1:56:39 pm] Userid: testuser
+[March 14th 2016, 1:56:39 pm] GET /api/light/14/on
+[March 14th 2016, 1:56:39 pm] Userid: testuser
+[March 14th 2016, 1:56:39 pm] GET /api/light/12/on
+[March 14th 2016, 1:56:39 pm] Userid: testuser
+[April 1st 2016, 8:40:59 am] Listening server on port 8080
+[April 1st 2016, 8:41:16 am] Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at Server._listen2 (net.js:1234:14)
+    at listen (net.js:1270:10)
+    at Server.listen (net.js:1366:5)
+    at EventEmitter.listen (/home/pi/miniproject/node_modules/express/lib/application.js:617:24)
+    at Object.<anonymous> (/home/pi/miniproject/app.js:71:18)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+[April 1st 2016, 8:40:59 am] GET /api/light/14/on
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/off
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/off
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/on
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/on
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/off
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/on
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/off
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/on
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/off
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/on
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/off
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/on
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/off
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/on
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/off
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/on
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/off
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/on
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/off
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/on
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/off
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/14/on
+[April 1st 2016, 8:40:59 am] Authorization failed: Error: Not enough or too many segments
+[April 1st 2016, 8:40:59 am] GET /api/light/12/on
+[April 1st 2016, 8:40:59 am] Userid: testuser
+[April 1st 2016, 8:40:59 am] GET /api/light/14/on
+[April 1st 2016, 8:40:59 am] Userid: testuser
+[April 1st 2016, 8:40:59 am] GET /api/light/12/off
+[April 1st 2016, 8:40:59 am] Userid: testuser
+[April 1st 2016, 8:40:59 am] POST /api/login
+[April 1st 2016, 8:40:59 am] GET /api/light/14/on
+[April 1st 2016, 8:40:59 am] Userid: testuser
+[April 1st 2016, 8:40:59 am] GET /api/light/14/off
+[April 1st 2016, 8:40:59 am] Userid: testuser
+[April 1st 2016, 8:40:59 am] GET /api/light/14/on
+[April 1st 2016, 8:40:59 am] Userid: testuser
+[April 1st 2016, 8:40:59 am] GET /api/light/14/off
+[April 1st 2016, 8:40:59 am] Userid: testuser
+[April 1st 2016, 8:40:59 am] GET /api/light/14/on
+[April 1st 2016, 8:40:59 am] Userid: testuser
+[April 1st 2016, 8:40:59 am] GET /api/light/14/off
+[April 1st 2016, 8:40:59 am] Userid: testuser
+[April 1st 2016, 8:40:59 am] GET /api/light/14/on
+[April 1st 2016, 8:40:59 am] Userid: testuser
+[April 1st 2016, 9:07:57 am] Listening server on port 8080
+[April 1st 2016, 9:07:57 am] GET /api/light/14/on
+[April 1st 2016, 9:07:57 am] Userid: testuser
+[April 1st 2016, 9:07:57 am] GET /api/light/14/off
+[April 1st 2016, 9:07:57 am] Userid: testuser
+[April 1st 2016, 9:07:57 am] GET /api/light/14/on
+[April 1st 2016, 9:07:57 am] Userid: testuser
+[April 1st 2016, 9:07:57 am] GET /api/light/14/off
+[April 1st 2016, 9:07:57 am] Userid: testuser
+[April 1st 2016, 9:07:57 am] GET /api/light/14/on
+[April 1st 2016, 9:07:57 am] Userid: testuser
+[April 1st 2016, 9:07:57 am] GET /api/light/14/on
+[April 1st 2016, 9:07:57 am] Userid: testuser
+[April 1st 2016, 9:07:57 am] POST /api/login
+[April 1st 2016, 9:07:57 am] POST /api/login
+[April 1st 2016, 9:07:57 am] GET /
+[April 1st 2016, 9:07:57 am] GET /favicon.ico
+[April 1st 2016, 9:07:57 am] GET /
+[April 1st 2016, 9:07:57 am] GET /api
+[April 1st 2016, 9:07:57 am] GET /
+[April 1st 2016, 9:07:57 am] GET /
+[April 1st 2016, 9:07:57 am] GET /
+[April 1st 2016, 9:19:55 am] Listening server on port 8080
+[April 1st 2016, 9:19:55 am] GET /
+[April 1st 2016, 9:19:55 am] POST /api/login
+[April 1st 2016, 9:19:55 am] POST /api/login
+[April 1st 2016, 9:19:55 am] POST /api/login
+[April 1st 2016, 9:47:28 am] ReferenceError: routed_default is not defined
+    at Object.<anonymous> (/home/pi/miniproject/app.js:66:14)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+[April 1st 2016, 9:48:08 am] Listening server on port 8080
+[April 1st 2016, 9:48:08 am] POST /api/login
+[April 1st 2016, 9:48:08 am] GET /
+[April 1st 2016, 9:48:08 am] GET /api
+[April 1st 2016, 9:48:08 am] POST /api/login
+[April 1st 2016, 9:48:08 am] POST /api/login
+[April 1st 2016, 9:48:08 am] POST /api/login
+[April 1st 2016, 9:48:08 am] POST /api/login
+[April 1st 2016, 9:48:08 am] GET /api/light/14/on
+[April 1st 2016, 9:48:08 am] Userid: testuser
+[April 1st 2016, 9:48:08 am] GET /api/light/14/off
+[April 1st 2016, 9:48:08 am] Userid: testuser
+[April 1st 2016, 9:48:08 am] GET /api/light/14/on
+[April 1st 2016, 9:48:08 am] Userid: testuser
+[April 1st 2016, 9:54:50 am] Listening server on port 8080
+[April 1st 2016, 9:54:50 am] GET /api/users
+[April 1st 2016, 9:56:51 am] Listening server on port 8080
+[April 1st 2016, 9:56:51 am] GET /api/users
+[April 1st 2016, 9:56:51 am] GET /api/users
+[April 1st 2016, 9:56:51 am] Userid: testuser
+[April 1st 2016, 9:58:35 am] Listening server on port 8080
+[April 1st 2016, 9:58:35 am] GET /api/users
+[April 1st 2016, 9:58:35 am] Userid: testuser
+[April 1st 2016, 10:00:12 am] Listening server on port 8080
+[April 1st 2016, 10:00:12 am] GET /api/users
+[April 1st 2016, 10:00:12 am] Userid: testuser
+[April 1st 2016, 10:00:12 am] GET /api/users
+[April 1st 2016, 10:00:12 am] GET /api/users
+[April 1st 2016, 10:00:12 am] GET /api/users
+[April 1st 2016, 10:00:12 am] Userid: testuser
+[April 1st 2016, 10:08:36 am] Listening server on port 8080
+[April 1st 2016, 10:08:36 am] GET /api/users
+[April 1st 2016, 10:08:36 am] Userid: testuser
+[April 1st 2016, 10:09:16 am] Listening server on port 8080
+[April 1st 2016, 10:09:16 am] GET /api/users
+[April 1st 2016, 10:09:16 am] Userid: testuser
+[April 1st 2016, 10:09:16 am] GET /api/users
+[April 1st 2016, 10:09:16 am] GET /api/users
+[April 1st 2016, 10:09:16 am] Userid: testuser
+[April 1st 2016, 10:09:16 am] Error: SQLITE_ERROR: no such table: user
+    at Error (native)
+--> in Database#all('SELECT id, name, password FROM user WHERE 1;', [Function])
+    at /home/pi/miniproject/routes_api.js:186:8
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/index.js:271:10)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:121:14)
+[April 1st 2016, 10:09:16 am] GET /api/light/14/on
+[April 1st 2016, 10:09:16 am] Userid: testuser
+[April 1st 2016, 10:09:16 am] GET /api/light/14/off
+[April 1st 2016, 10:09:16 am] Userid: testuser
+[April 1st 2016, 10:09:16 am] GET /api/light/14/on
+[April 1st 2016, 10:09:16 am] Userid: testuser
+[April 1st 2016, 10:09:16 am] GET /api/light/14/off
+[April 1st 2016, 10:09:16 am] Userid: testuser
+[April 1st 2016, 10:09:16 am] GET /api/light/14/on
+[April 1st 2016, 10:09:16 am] Userid: testuser
+[April 1st 2016, 10:09:16 am] GET /api/users
+[April 1st 2016, 10:09:16 am] Userid: testuser
+[April 1st 2016, 10:09:16 am] Error: SQLITE_ERROR: no such column: id
+    at Error (native)
+--> in Database#all('SELECT id, name, password FROM user WHERE 1;', [Function])
+    at /home/pi/miniproject/routes_api.js:186:8
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/index.js:271:10)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:121:14)
+[April 1st 2016, 10:18:44 am] Listening server on port 8080
+[April 1st 2016, 10:18:44 am] GET /api/users
+[April 1st 2016, 10:18:44 am] Error: SQLITE_ERROR: no such column: name
+    at Error (native)
+--> in Database#all('SELECT name, password, access FROM user WHERE 1;', [Function])
+    at /home/pi/miniproject/routes_api.js:227:8
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/index.js:271:10)
+    at Function.handle (/home/pi/miniproject/node_modules/express/lib/router/index.js:176:3)
+[April 1st 2016, 10:23:07 am] Listening server on port 8080
+[April 1st 2016, 10:23:07 am] GET /api/users
+[April 1st 2016, 10:23:07 am] GET /api/lights
+[April 1st 2016, 10:24:55 am] Listening server on port 8080
+[April 1st 2016, 10:24:55 am] GET /light
+[April 1st 2016, 10:24:55 am] GET /api/light
+[April 1st 2016, 10:24:55 am] GET /api/light/
+[April 1st 2016, 10:24:55 am] GET /api/light/14/on
+[April 1st 2016, 10:24:55 am] Userid: testuser
+[April 1st 2016, 10:26:07 am] Listening server on port 8080
+[April 1st 2016, 10:26:07 am] GET /api/light/14/on
+[April 1st 2016, 10:26:07 am] Userid: testuser
+[April 1st 2016, 10:26:07 am] GET /api/light/14/off
+[April 1st 2016, 10:26:07 am] Userid: testuser
+[April 1st 2016, 10:26:07 am] GET /api/light/14/on
+[April 1st 2016, 10:26:07 am] Userid: testuser
+[April 1st 2016, 10:26:07 am] GET /api/light/14
+[April 1st 2016, 10:26:07 am] Userid: testuser
+[April 1st 2016, 10:26:07 am] GET /api/lights
+[April 1st 2016, 10:26:07 am] GET /api/lights/
+[April 1st 2016, 10:28:32 am] Listening server on port 8080
+[April 1st 2016, 10:28:32 am] GET /api/lights/
+[April 1st 2016, 10:28:32 am] GET /api/light/M/12/on
+[April 1st 2016, 10:28:32 am] Userid: testuser
+[April 1st 2016, 10:28:32 am] GET /api/light/yorick
+[April 1st 2016, 10:28:32 am] Userid: testuser
+[April 1st 2016, 10:28:32 am] GET /api/light/yorick/on
+[April 1st 2016, 10:28:32 am] Userid: testuser
+[April 1st 2016, 10:28:32 am] POST /api/register
+[April 1st 2016, 10:28:32 am] Error: SQLITE_ERROR: near " ": syntax error
+    at Error (native)
+--> in Database#all('INSERT INTO ', [Function])
+    at /home/pi/miniproject/routes_api.js:84:8
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/index.js:271:10)
+    at Function.handle (/home/pi/miniproject/node_modules/express/lib/router/index.js:176:3)
+[April 1st 2016, 10:48:27 am] Listening server on port 8080
+[April 1st 2016, 10:48:27 am] GET /api/light/yorick/on
+[April 1st 2016, 10:48:27 am] Userid: testuser
+[April 1st 2016, 10:48:27 am] GET /api/light/yorick/off
+[April 1st 2016, 10:48:27 am] Userid: testuser
+[April 1st 2016, 10:49:07 am] Listening server on port 8080
+[April 1st 2016, 10:49:07 am] GET /api/light/yorick/off
+[April 1st 2016, 10:49:07 am] Userid: testuser
+[April 1st 2016, 10:49:36 am] Listening server on port 8080
+[April 1st 2016, 10:49:36 am] GET /api/light/yorick/off
+[April 1st 2016, 10:49:36 am] Userid: testuser
+[April 1st 2016, 10:49:36 am] GET /api/light/yorick/on
+[April 1st 2016, 10:49:36 am] Userid: testuser
+[April 1st 2016, 10:52:00 am] Listening server on port 8080
+[April 1st 2016, 10:52:00 am] POST /api/register
+[April 1st 2016, 10:52:00 am] Error: SQLITE_ERROR: near " ": syntax error
+    at Error (native)
+--> in Database#all('INSERT INTO ', [Function])
+    at /home/pi/miniproject/routes_api.js:84:8
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/index.js:271:10)
+    at Function.handle (/home/pi/miniproject/node_modules/express/lib/router/index.js:176:3)
+[April 1st 2016, 10:52:00 am] POST /api/register
+[April 1st 2016, 10:52:00 am] Error: SQLITE_ERROR: near " ": syntax error
+    at Error (native)
+--> in Database#all('INSERT INTO ', [Function])
+    at /home/pi/miniproject/routes_api.js:84:8
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/index.js:271:10)
+    at Function.handle (/home/pi/miniproject/node_modules/express/lib/router/index.js:176:3)
+[April 1st 2016, 10:52:00 am] POST /api/register
+[April 1st 2016, 10:52:00 am] Error: SQLITE_ERROR: near " ": syntax error
+    at Error (native)
+--> in Database#all('INSERT INTO ', [Function])
+    at /home/pi/miniproject/routes_api.js:84:8
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/index.js:271:10)
+    at Function.handle (/home/pi/miniproject/node_modules/express/lib/router/index.js:176:3)
+[April 1st 2016, 10:55:15 am] Listening server on port 8080
+[April 1st 2016, 10:55:15 am] GET /api/light/yorick/on
+[April 1st 2016, 10:55:15 am] Userid: testuser
+[April 1st 2016, 10:55:15 am] POST /api/register
+[April 1st 2016, 10:55:15 am] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 10:55:15 am] POST /api/register
+[April 1st 2016, 10:55:15 am] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 10:55:15 am] GET /api/lights
+[April 1st 2016, 10:55:15 am] GET /api/light/yorick/on
+[April 1st 2016, 10:55:15 am] Userid: testuser
+[April 1st 2016, 10:58:48 am] Listening server on port 8080
+[April 1st 2016, 10:58:48 am] GET /api/light/yorick/on
+[April 1st 2016, 10:58:48 am] Userid: testuser
+[April 1st 2016, 10:58:48 am] [object Object]
+[April 1st 2016, 10:58:48 am] POST /api/register
+[April 1st 2016, 10:58:48 am] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 10:58:48 am] GET /api/lights
+[April 1st 2016, 11:00:11 am] Listening server on port 8080
+[April 1st 2016, 11:00:11 am] POST /api/register
+[April 1st 2016, 11:00:11 am] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 11:00:11 am] GET /api/light/yorick/on
+[April 1st 2016, 11:00:11 am] Userid: testuser
+[April 1st 2016, 11:00:11 am] M 14
+[April 1st 2016, 11:00:11 am] GET /api/lights
+[April 1st 2016, 11:02:09 am] Listening server on port 8080
+[April 1st 2016, 11:02:09 am] GET /api/light/yorick/on
+[April 1st 2016, 11:02:09 am] Userid: testuser
+[April 1st 2016, 11:02:09 am] M 14
+[April 1st 2016, 11:03:53 am] Listening server on port 8080
+[April 1st 2016, 11:03:53 am] GET /api/light/yorick/on
+[April 1st 2016, 11:03:53 am] Userid: testuser
+[April 1st 2016, 11:03:53 am] M 14
+[April 1st 2016, 11:03:53 am] GET /api/light/yorick/off
+[April 1st 2016, 11:03:53 am] Userid: testuser
+[April 1st 2016, 11:03:53 am] M 14
+[April 1st 2016, 11:03:53 am] GET /api/light/yorick/off
+[April 1st 2016, 11:03:53 am] Userid: testuser
+[April 1st 2016, 11:03:53 am] M 14
+[April 1st 2016, 11:03:53 am] GET /api/light/yorick/off
+[April 1st 2016, 11:03:53 am] Userid: testuser
+[April 1st 2016, 11:03:53 am] M 14
+[April 1st 2016, 11:03:53 am] GET /api/light/yorick/on
+[April 1st 2016, 11:03:53 am] Userid: testuser
+[April 1st 2016, 11:03:53 am] M 14
+[April 1st 2016, 11:03:53 am] GET /api/light/kenneth/off
+[April 1st 2016, 11:03:53 am] Userid: testuser
+[April 1st 2016, 11:03:53 am] M 12
+[April 1st 2016, 11:03:53 am] GET /api/light/kenneth/on
+[April 1st 2016, 11:03:53 am] Userid: testuser
+[April 1st 2016, 11:03:53 am] M 12
+[April 1st 2016, 11:04:57 am] Listening server on port 8080
+[April 1st 2016, 11:04:57 am] GET /api/light/yorick/off
+[April 1st 2016, 11:04:57 am] Userid: testuser
+[April 1st 2016, 11:04:57 am] M 14
+[April 1st 2016, 11:04:57 am] POST /api/register
+[April 1st 2016, 11:04:57 am] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 11:04:57 am] GET /api/light/yorick/on
+[April 1st 2016, 11:04:57 am] Userid: testuser
+[April 1st 2016, 11:04:57 am] M 14
+[April 1st 2016, 11:04:57 am] GET /api/lights
+[April 1st 2016, 11:04:57 am] POST /api/register
+[April 1st 2016, 11:04:57 am] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 11:04:57 am] GET /api/lights
+[April 1st 2016, 11:04:57 am] POST /api/register
+[April 1st 2016, 11:04:57 am] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 11:04:57 am] GET /api/lights
+[April 1st 2016, 11:04:57 am] POST /api/register
+[April 1st 2016, 11:04:57 am] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 11:04:57 am] GET /api/lights
+[April 1st 2016, 11:04:57 am] POST /api/register
+[April 1st 2016, 11:04:57 am] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 11:04:57 am] GET /api/lights
+[April 1st 2016, 11:04:57 am] POST /api/register
+[April 1st 2016, 11:04:57 am] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 11:04:57 am] POST /api/register
+[April 1st 2016, 11:04:57 am] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 11:04:57 am] GET /api/lights
+[April 1st 2016, 11:04:57 am] POST /api/register
+[April 1st 2016, 11:04:57 am] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 11:04:57 am] GET /api/lights
+[April 1st 2016, 11:04:57 am] POST /api/register
+[April 1st 2016, 11:04:57 am] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 11:04:57 am] GET /api/lights
+[April 1st 2016, 11:04:57 am] POST /api/register
+[April 1st 2016, 11:04:57 am] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 11:04:57 am] GET /api/lights
+[April 1st 2016, 11:04:57 am] GET /api/light/yorick/off
+[April 1st 2016, 11:04:57 am] Userid: testuser
+[April 1st 2016, 11:04:57 am] M 14
+[April 1st 2016, 11:04:57 am] GET /api/light/yorick/on
+[April 1st 2016, 11:04:57 am] Userid: testuser
+[April 1st 2016, 11:04:57 am] M 14
+[April 1st 2016, 11:04:57 am] GET /api/light/kenneth/off
+[April 1st 2016, 11:04:57 am] Userid: testuser
+[April 1st 2016, 11:04:57 am] M 12
+[April 1st 2016, 11:04:57 am] GET /api/light/kenneth/on
+[April 1st 2016, 11:04:57 am] Userid: testuser
+[April 1st 2016, 11:04:57 am] M 12
+[April 1st 2016, 11:41:27 am] Listening server on port 8080
+[April 1st 2016, 11:41:27 am] GET /api/light/yorick/on
+[April 1st 2016, 11:43:22 am] Listening server on port 8080
+[April 1st 2016, 11:43:22 am] GET /api/light/yorick/on
+[April 1st 2016, 11:43:58 am] Listening server on port 8080
+[April 1st 2016, 11:43:58 am] GET /api/light/yorick/on
+[April 1st 2016, 11:43:58 am] Authenticating...
+[April 1st 2016, 11:43:58 am] ReferenceError: num is not defined
+    at Statement.<anonymous> (/home/pi/miniproject/routes_api.js:31:34)
+--> in Database#get('SELECT COUNT(*) AS num FROM user WHERE access=\'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0ZXN0dXNlciIsImV4cCI6MTQ1Nzk1NTQwMjIwOX0.dRjyIwtFOO5sOSnHZ34Q5J9QcDTXcmeWCkMSLsgHPKA\' AND username=\'testuser\';', [Function])
+    at /home/pi/miniproject/routes_api.js:28:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:410:3)
+[April 1st 2016, 11:43:58 am] POST /api/register
+[April 1st 2016, 11:43:58 am] Authenticating...
+[April 1st 2016, 11:43:58 am] GET /api/lights
+[April 1st 2016, 11:43:58 am] Authenticating...
+[April 1st 2016, 11:43:58 am] Error: SQLITE_MISUSE: Database is closed
+    at Error (native)
+    at Database.<anonymous> (/home/pi/miniproject/node_modules/sqlite3/lib/sqlite3.js:20:25)
+    at /home/pi/miniproject/routes_api.js:28:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+--> in Database#get('SELECT COUNT(*) AS num FROM user WHERE access=\'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0ZXN0dXNlciIsImV4cCI6MTQ1OTUyNjAyNjk5OH0.XhCldkm5oESenPGn-CQf9MwK5KRXKNv9kLfGIcKqg-8\' AND username=\'testuser\';', [Function])
+    at /home/pi/miniproject/routes_api.js:28:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:410:3)
+[April 1st 2016, 11:43:58 am] Error: SQLITE_MISUSE: Database is closed
+    at Error (native)
+    at Database.object.(anonymous function) [as close] (/home/pi/miniproject/node_modules/sqlite3/lib/trace.js:32:20)
+    at /home/pi/miniproject/routes_api.js:46:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:365:14)
+[April 1st 2016, 11:43:58 am] GET /api/lights
+[April 1st 2016, 11:43:58 am] Authenticating...
+[April 1st 2016, 11:43:58 am] Error: SQLITE_MISUSE: Database is closed
+    at Error (native)
+    at Database.<anonymous> (/home/pi/miniproject/node_modules/sqlite3/lib/sqlite3.js:20:25)
+    at /home/pi/miniproject/routes_api.js:28:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+--> in Database#get('SELECT COUNT(*) AS num FROM user WHERE access=\'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0ZXN0dXNlciIsImV4cCI6MTQ1OTUyNjAyNjk5OH0.XhCldkm5oESenPGn-CQf9MwK5KRXKNv9kLfGIcKqg-8\' AND username=\'testuser\';', [Function])
+    at /home/pi/miniproject/routes_api.js:28:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:410:3)
+[April 1st 2016, 11:43:58 am] Error: SQLITE_MISUSE: Database is closed
+    at Error (native)
+    at Database.object.(anonymous function) [as close] (/home/pi/miniproject/node_modules/sqlite3/lib/trace.js:32:20)
+    at /home/pi/miniproject/routes_api.js:46:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:365:14)
+[April 1st 2016, 11:52:12 am] Listening server on port 8080
+[April 1st 2016, 11:52:12 am] GET /api/light/yorick/on
+[April 1st 2016, 11:52:12 am] Authenticating...
+[April 1st 2016, 11:52:12 am] ReferenceError: num is not defined
+    at Statement.<anonymous> (/home/pi/miniproject/routes_api.js:31:34)
+--> in Database#get('SELECT COUNT(*) AS num FROM user WHERE access=\'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0ZXN0dXNlciIsImV4cCI6MTQ1Nzk1NTQwMjIwOX0.dRjyIwtFOO5sOSnHZ34Q5J9QcDTXcmeWCkMSLsgHPKA\' AND username=\'testuser\';', [Function])
+    at /home/pi/miniproject/routes_api.js:28:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:410:3)
+[April 1st 2016, 11:52:12 am] POST /api/register
+[April 1st 2016, 11:52:12 am] Authenticating...
+[April 1st 2016, 11:52:12 am] GET /api/lights
+[April 1st 2016, 11:52:12 am] Authenticating...
+[April 1st 2016, 11:52:12 am] Error: SQLITE_MISUSE: Database is closed
+    at Error (native)
+    at Database.<anonymous> (/home/pi/miniproject/node_modules/sqlite3/lib/sqlite3.js:20:25)
+    at /home/pi/miniproject/routes_api.js:28:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+--> in Database#get('SELECT COUNT(*) AS num FROM user WHERE access=\'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0ZXN0dXNlciIsImV4cCI6MTQ1OTUyNjAyNjk5OH0.XhCldkm5oESenPGn-CQf9MwK5KRXKNv9kLfGIcKqg-8\' AND username=\'testuser\';', [Function])
+    at /home/pi/miniproject/routes_api.js:28:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:410:3)
+[April 1st 2016, 11:52:12 am] Error: SQLITE_MISUSE: Database is closed
+    at Error (native)
+    at Database.object.(anonymous function) [as close] (/home/pi/miniproject/node_modules/sqlite3/lib/trace.js:32:20)
+    at /home/pi/miniproject/routes_api.js:46:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:365:14)
+[April 1st 2016, 11:53:49 am] Listening server on port 8080
+[April 1st 2016, 11:53:49 am] GET /api/lights
+[April 1st 2016, 11:53:49 am] Authenticating...
+[April 1st 2016, 11:53:49 am] ReferenceError: num is not defined
+    at Statement.<anonymous> (/home/pi/miniproject/routes_api.js:31:34)
+--> in Database#get('SELECT COUNT(*) AS num FROM user WHERE access=\'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0ZXN0dXNlciIsImV4cCI6MTQ1OTUyNjAyNjk5OH0.XhCldkm5oESenPGn-CQf9MwK5KRXKNv9kLfGIcKqg-8\' AND username=\'testuser\';', [Function])
+    at /home/pi/miniproject/routes_api.js:28:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:410:3)
+[April 1st 2016, 11:55:51 am] Listening server on port 8080
+[April 1st 2016, 11:55:51 am] GET /api/light/yorick/on
+[April 1st 2016, 11:55:51 am] Authenticating...
+[April 1st 2016, 11:55:51 am] Found 0 valid users
+[April 1st 2016, 11:55:51 am] Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:350:11)
+    at ServerResponse.header (/home/pi/miniproject/node_modules/express/lib/response.js:718:10)
+    at ServerResponse.send (/home/pi/miniproject/node_modules/express/lib/response.js:163:12)
+    at ServerResponse.json (/home/pi/miniproject/node_modules/express/lib/response.js:249:15)
+    at Statement.<anonymous> (/home/pi/miniproject/routes_api.js:40:22)
+--> in Database#get('SELECT COUNT(username) AS num FROM user WHERE access=\'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0ZXN0dXNlciIsImV4cCI6MTQ1Nzk1NTQwMjIwOX0.dRjyIwtFOO5sOSnHZ34Q5J9QcDTXcmeWCkMSLsgHPKA\' AND username=\'testuser\';', [Function])
+    at /home/pi/miniproject/routes_api.js:28:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:410:3)
+[April 1st 2016, 11:56:31 am] Listening server on port 8080
+[April 1st 2016, 11:56:31 am] GET /api/light/yorick/on
+[April 1st 2016, 11:56:31 am] Authenticating...
+[April 1st 2016, 11:56:31 am] Found 0 valid users
+[April 1st 2016, 11:56:31 am] Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:350:11)
+    at ServerResponse.header (/home/pi/miniproject/node_modules/express/lib/response.js:718:10)
+    at ServerResponse.send (/home/pi/miniproject/node_modules/express/lib/response.js:163:12)
+    at ServerResponse.json (/home/pi/miniproject/node_modules/express/lib/response.js:249:15)
+    at Statement.<anonymous> (/home/pi/miniproject/routes_api.js:40:22)
+--> in Database#get('SELECT COUNT(username) AS num FROM user WHERE access=\'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0ZXN0dXNlciIsImV4cCI6MTQ1Nzk1NTQwMjIwOX0.dRjyIwtFOO5sOSnHZ34Q5J9QcDTXcmeWCkMSLsgHPKA\' AND username=\'testuser\';', [Function])
+    at /home/pi/miniproject/routes_api.js:28:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:410:3)
+[April 1st 2016, 11:59:51 am] Listening server on port 8080
+[April 1st 2016, 11:59:51 am] GET /api/light/yorick/on
+[April 1st 2016, 11:59:51 am] Authenticating...
+[April 1st 2016, 11:59:51 am] Found 0 valid users
+[April 1st 2016, 11:59:51 am] POST /api/login
+[April 1st 2016, 11:59:51 am] Error: SQLITE_MISUSE: Database is closed
+    at Error (native)
+    at Database.<anonymous> (/home/pi/miniproject/node_modules/sqlite3/lib/sqlite3.js:20:25)
+    at /home/pi/miniproject/routes_api.js:113:8
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:330:12)
+--> in Database#get('SELECT COUNT(*) AS num FROM user WHERE username=\'kenneth\' AND password=\'boef\';', [Function])
+    at /home/pi/miniproject/routes_api.js:113:8
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/index.js:271:10)
+    at Function.handle (/home/pi/miniproject/node_modules/express/lib/router/index.js:176:3)
+[April 1st 2016, 11:59:51 am] Error: SQLITE_MISUSE: Database is closed
+    at Error (native)
+    at Database.object.(anonymous function) [as close] (/home/pi/miniproject/node_modules/sqlite3/lib/trace.js:32:20)
+    at /home/pi/miniproject/routes_api.js:144:8
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/index.js:271:10)
+[April 1st 2016, 12:01:33 pm] Listening server on port 8080
+[April 1st 2016, 12:01:33 pm] POST /api/login
+[April 1st 2016, 12:01:33 pm] GET /api/light/yorick/on
+[April 1st 2016, 12:01:33 pm] Authenticating...
+[April 1st 2016, 12:01:33 pm] Found 1 valid users
+[April 1st 2016, 12:01:33 pm] Userid: kenneth
+[April 1st 2016, 12:01:33 pm] GET /api/light/yorick/off
+[April 1st 2016, 12:01:33 pm] Authenticating...
+[April 1st 2016, 12:01:33 pm] Found 1 valid users
+[April 1st 2016, 12:01:33 pm] Userid: kenneth
+[April 1st 2016, 12:01:33 pm] GET /api/lights
+[April 1st 2016, 12:01:33 pm] Authenticating...
+[April 1st 2016, 12:01:33 pm] Found 0 valid users
+[April 1st 2016, 12:01:33 pm] POST /api/register
+[April 1st 2016, 12:01:33 pm] Authenticating...
+[April 1st 2016, 12:01:33 pm] POST /api/register
+[April 1st 2016, 12:01:33 pm] Authenticating...
+[April 1st 2016, 12:01:33 pm] GET /api/register
+[April 1st 2016, 12:01:33 pm] Authenticating...
+[April 1st 2016, 12:01:33 pm] Found 0 valid users
+[April 1st 2016, 12:01:33 pm] POST /api/register
+[April 1st 2016, 12:01:33 pm] Authenticating...
+[April 1st 2016, 12:01:33 pm] Found 0 valid users
+[April 1st 2016, 12:01:33 pm] POST /api/login
+[April 1st 2016, 12:01:33 pm] POST /api/register
+[April 1st 2016, 12:01:33 pm] Authenticating...
+[April 1st 2016, 12:01:33 pm] Found 0 valid users
+[April 1st 2016, 12:01:33 pm] POST /api/login
+[April 1st 2016, 12:01:33 pm] GET /api/lights
+[April 1st 2016, 12:01:33 pm] Authenticating...
+[April 1st 2016, 12:01:33 pm] Found 0 valid users
+[April 1st 2016, 12:01:33 pm] GET /api/lights
+[April 1st 2016, 12:01:33 pm] Authenticating...
+[April 1st 2016, 12:01:33 pm] Found 0 valid users
+[April 1st 2016, 12:08:48 pm] Listening server on port 8080
+[April 1st 2016, 12:08:48 pm] POST /api/register
+[April 1st 2016, 12:08:48 pm] POST /api/register
+[April 1st 2016, 12:08:48 pm] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 12:08:48 pm] POST /api/register
+[April 1st 2016, 12:08:48 pm] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 12:08:48 pm] POST /api/login
+[April 1st 2016, 12:08:48 pm] GET /api/lights
+[April 1st 2016, 12:08:48 pm] Authenticating...
+[April 1st 2016, 12:08:48 pm] Found 0 valid users
+[April 1st 2016, 12:08:48 pm] GET /api/lights
+[April 1st 2016, 12:08:48 pm] Authenticating...
+[April 1st 2016, 12:08:48 pm] Found 0 valid users
+[April 1st 2016, 12:08:48 pm] POST /api/register
+[April 1st 2016, 12:08:48 pm] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 12:08:48 pm] POST /api/login
+[April 1st 2016, 12:08:48 pm] GET /api/lights
+[April 1st 2016, 12:08:48 pm] Authenticating...
+[April 1st 2016, 12:08:48 pm] Found 0 valid users
+[April 1st 2016, 12:08:48 pm] POST /api/register
+[April 1st 2016, 12:08:48 pm] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 12:08:48 pm] POST /api/register
+[April 1st 2016, 12:08:48 pm] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 12:08:48 pm] GET /api/lights
+[April 1st 2016, 12:08:48 pm] Authenticating...
+[April 1st 2016, 12:08:48 pm] Found 0 valid users
+[April 1st 2016, 12:08:48 pm] POST /api/register
+[April 1st 2016, 12:08:48 pm] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 12:08:48 pm] POST /api/login
+[April 1st 2016, 12:08:48 pm] GET /api/lights
+[April 1st 2016, 12:08:48 pm] Authenticating...
+[April 1st 2016, 12:08:48 pm] Found 0 valid users
+[April 1st 2016, 12:08:48 pm] POST /api/register
+[April 1st 2016, 12:08:48 pm] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 12:08:48 pm] GET /api/lights
+[April 1st 2016, 12:08:48 pm] Authenticating...
+[April 1st 2016, 12:08:48 pm] Found 0 valid users
+[April 1st 2016, 12:08:48 pm] GET /api/lights
+[April 1st 2016, 12:08:48 pm] Authenticating...
+[April 1st 2016, 12:08:48 pm] Found 0 valid users
+[April 1st 2016, 12:08:48 pm] POST /api/login
+[April 1st 2016, 12:08:48 pm] GET /api/lights
+[April 1st 2016, 12:08:48 pm] Authenticating...
+[April 1st 2016, 12:08:48 pm] Found 1 valid users
+[April 1st 2016, 12:08:48 pm] Userid: new
+[April 1st 2016, 12:08:48 pm] POST /api/register
+[April 1st 2016, 12:08:48 pm] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 12:08:48 pm] GET /api/lights
+[April 1st 2016, 12:08:48 pm] Authenticating...
+[April 1st 2016, 12:08:48 pm] Found 0 valid users
+[April 1st 2016, 12:08:48 pm] POST /api/register
+[April 1st 2016, 12:08:48 pm] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 12:08:48 pm] GET /api/lights
+[April 1st 2016, 12:08:48 pm] Authenticating...
+[April 1st 2016, 12:08:48 pm] Found 0 valid users
+[April 1st 2016, 12:08:48 pm] POST /api/register
+[April 1st 2016, 12:08:48 pm] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 12:08:48 pm] GET /api/lights
+[April 1st 2016, 12:08:48 pm] Authenticating...
+[April 1st 2016, 12:08:48 pm] Found 0 valid users
+[April 1st 2016, 12:08:48 pm] POST /api/register
+[April 1st 2016, 12:08:48 pm] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 12:08:48 pm] GET /api/lights
+[April 1st 2016, 12:08:48 pm] Authenticating...
+[April 1st 2016, 12:08:48 pm] Found 0 valid users
+[April 1st 2016, 12:08:48 pm] POST /api/register
+[April 1st 2016, 12:08:48 pm] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 12:08:48 pm] POST /api/login
+[April 1st 2016, 12:08:48 pm] GET /api/lights
+[April 1st 2016, 12:08:48 pm] Authenticating...
+[April 1st 2016, 12:08:48 pm] Found 0 valid users
+[April 1st 2016, 12:08:48 pm] GET /api/light/yorick/on
+[April 1st 2016, 12:08:48 pm] Authenticating...
+[April 1st 2016, 12:08:48 pm] Found 1 valid users
+[April 1st 2016, 12:08:48 pm] Userid: kenneth
+[April 1st 2016, 12:08:48 pm] POST /api/login
+[April 1st 2016, 12:24:14 pm] Listening server on port 8080
+[April 1st 2016, 12:24:14 pm] POST /api/register
+[April 1st 2016, 12:24:14 pm] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 12:24:14 pm] POST /api/login
+[April 1st 2016, 12:24:14 pm] GET /api/lights
+[April 1st 2016, 12:24:14 pm] Authenticating...
+[April 1st 2016, 12:24:14 pm] Found 0 valid users
+[April 1st 2016, 12:24:14 pm] POST /api/register
+[April 1st 2016, 12:24:14 pm] POST /api/login
+[April 1st 2016, 12:24:14 pm] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 12:24:14 pm] GET /api/light/users
+[April 1st 2016, 12:24:14 pm] Authenticating...
+[April 1st 2016, 12:24:14 pm] Found 1 valid users
+[April 1st 2016, 12:24:14 pm] Userid: kenneth
+[April 1st 2016, 12:24:14 pm] GET /api/users
+[April 1st 2016, 12:24:14 pm] Authenticating...
+[April 1st 2016, 12:24:14 pm] Found 1 valid users
+[April 1st 2016, 12:24:14 pm] Userid: kenneth
+[April 1st 2016, 12:24:14 pm] GET /api/lights
+[April 1st 2016, 12:24:14 pm] Authenticating...
+[April 1st 2016, 12:24:14 pm] Found 0 valid users
+[April 1st 2016, 12:24:14 pm] POST /api/register
+[April 1st 2016, 12:24:14 pm] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 12:24:14 pm] POST /api/login
+[April 1st 2016, 12:28:41 pm] Listening server on port 8080
+[April 1st 2016, 12:28:41 pm] POST /api/register
+[April 1st 2016, 12:28:41 pm] Authenticating...
+[April 1st 2016, 12:28:41 pm] POST /api/register
+[April 1st 2016, 12:28:41 pm] Authenticating...
+[April 1st 2016, 12:28:41 pm] POST /api/register
+[April 1st 2016, 12:28:41 pm] Authenticating...
+[April 1st 2016, 12:28:41 pm] POST /api/register
+[April 1st 2016, 12:28:41 pm] Authenticating...
+[April 1st 2016, 12:28:41 pm] Found 1 valid users
+[April 1st 2016, 12:28:41 pm] Userid: kenneth
+[April 1st 2016, 12:28:41 pm] Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:350:11)
+    at ServerResponse.header (/home/pi/miniproject/node_modules/express/lib/response.js:718:10)
+    at ServerResponse.send (/home/pi/miniproject/node_modules/express/lib/response.js:163:12)
+    at ServerResponse.json (/home/pi/miniproject/node_modules/express/lib/response.js:249:15)
+    at Statement.<anonymous> (/home/pi/miniproject/routes_api.js:86:11)
+--> in Database#get('SELECT COUNT(*) AS num FROM user WHERE username=\'kenneth\';', [Function])
+    at /home/pi/miniproject/routes_api.js:75:8
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/index.js:271:10)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:121:14)
+[April 1st 2016, 12:28:41 pm] Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.username
+    at Error (native)
+[April 1st 2016, 12:30:06 pm] Listening server on port 8080
+[April 1st 2016, 12:30:06 pm] POST /api/register
+[April 1st 2016, 12:30:06 pm] Authenticating...
+[April 1st 2016, 12:30:06 pm] Found 1 valid users
+[April 1st 2016, 12:30:06 pm] Userid: kenneth
+[April 1st 2016, 12:30:06 pm] POST /api/register
+[April 1st 2016, 12:30:06 pm] Authenticating...
+[April 1st 2016, 12:30:06 pm] GET /api/users
+[April 1st 2016, 12:30:06 pm] Authenticating...
+[April 1st 2016, 12:30:06 pm] Found 1 valid users
+[April 1st 2016, 12:30:06 pm] Userid: kenneth
+[April 1st 2016, 12:30:06 pm] POST /api/login
+[April 1st 2016, 12:30:06 pm] POST /api/users
+[April 1st 2016, 12:30:06 pm] Authenticating...
+[April 1st 2016, 12:30:06 pm] Found 0 valid users
+[April 1st 2016, 12:30:06 pm] POST /api/register
+[April 1st 2016, 12:30:06 pm] Authenticating...
+[April 1st 2016, 12:32:30 pm] Listening server on port 8080
+[April 1st 2016, 12:32:30 pm] POST /api/register
+[April 1st 2016, 12:32:30 pm] Authenticating...
+[April 1st 2016, 12:32:30 pm] POST /api/login
+[April 1st 2016, 12:32:30 pm] POST /api/register
+[April 1st 2016, 12:32:30 pm] Authenticating...
+[April 1st 2016, 12:32:30 pm] POST /api/login
+[April 1st 2016, 12:32:30 pm] GET /api/lights
+[April 1st 2016, 12:32:30 pm] Authenticating...
+[April 1st 2016, 12:32:30 pm] Found 1 valid users
+[April 1st 2016, 12:32:30 pm] Userid: yorick
+[April 1st 2016, 12:32:30 pm] GET /api/light/yorick/off
+[April 1st 2016, 12:32:30 pm] Authenticating...
+[April 1st 2016, 12:32:30 pm] Found 1 valid users
+[April 1st 2016, 12:32:30 pm] Userid: yorick
+[April 1st 2016, 12:32:30 pm] GET /api/light/kenneth/off
+[April 1st 2016, 12:32:30 pm] Authenticating...
+[April 1st 2016, 12:32:30 pm] Found 1 valid users
+[April 1st 2016, 12:32:30 pm] Userid: yorick
+[April 1st 2016, 12:32:30 pm] GET /api/light/yorick/on
+[April 1st 2016, 12:32:30 pm] Authenticating...
+[April 1st 2016, 12:32:30 pm] Found 1 valid users
+[April 1st 2016, 12:32:30 pm] Userid: yorick
+[April 1st 2016, 12:32:30 pm] GET /api/light/kenneth/on
+[April 1st 2016, 12:32:30 pm] Authenticating...
+[April 1st 2016, 12:32:30 pm] Found 1 valid users
+[April 1st 2016, 12:32:30 pm] Userid: yorick
+[April 1st 2016, 12:32:30 pm] GET /api/light/kenneth/off
+[April 1st 2016, 12:32:30 pm] Authenticating...
+[April 1st 2016, 12:32:30 pm] Found 1 valid users
+[April 1st 2016, 12:32:30 pm] Userid: yorick
+[April 1st 2016, 12:32:30 pm] GET /api/light/kenneth/on
+[April 1st 2016, 12:32:30 pm] Authenticating...
+[April 1st 2016, 12:32:30 pm] Found 1 valid users
+[April 1st 2016, 12:32:30 pm] Userid: yorick
+[April 1st 2016, 12:32:30 pm] POST /api/register
+[April 1st 2016, 12:32:30 pm] Authenticating...
+[April 1st 2016, 12:32:30 pm] POST /api/login
+[April 1st 2016, 12:35:15 pm] Listening server on port 8080
+[April 1st 2016, 12:35:15 pm] GET /api/users
+[April 1st 2016, 12:35:15 pm] Authenticating...
+[April 1st 2016, 12:35:15 pm] Found 1 valid users
+[April 1st 2016, 12:35:15 pm] Userid: kenneth
+[April 1st 2016, 12:35:15 pm] POST /api/register
+[April 1st 2016, 12:35:15 pm] POST /api/login
+[April 1st 2016, 12:35:15 pm] GET /api/register
+[April 1st 2016, 12:35:15 pm] POST /api/register/
+[April 1st 2016, 12:35:15 pm] POST /api/users
+[April 1st 2016, 12:35:15 pm] Authenticating...
+[April 1st 2016, 12:35:15 pm] Authorization failed: Token not set
+[April 1st 2016, 12:35:15 pm] GET /api/users
+[April 1st 2016, 12:35:15 pm] Authenticating...
+[April 1st 2016, 12:35:15 pm] Authorization failed: Token not set
+[April 1st 2016, 12:35:15 pm] GET /api/users
+[April 1st 2016, 12:35:15 pm] Authenticating...
+[April 1st 2016, 12:35:15 pm] Found 1 valid users
+[April 1st 2016, 12:35:15 pm] Userid: kenneth
+[April 1st 2016, 12:35:15 pm] POST /api/register
+[April 1st 2016, 12:35:15 pm] POST /api/login
+[April 1st 2016, 12:35:15 pm] POST /api/register
+[April 1st 2016, 12:35:15 pm] POST /api/login
+[April 1st 2016, 12:35:15 pm] GET /api/users
+[April 1st 2016, 12:35:15 pm] Authenticating...
+[April 1st 2016, 12:35:15 pm] Found 1 valid users
+[April 1st 2016, 12:35:15 pm] Userid: kenneth
+[April 1st 2016, 12:35:15 pm] GET /api/users
+[April 1st 2016, 12:35:15 pm] Authenticating...
+[April 1st 2016, 12:35:15 pm] Found 1 valid users
+[April 1st 2016, 12:35:15 pm] Userid: kenneth
+[April 1st 2016, 12:35:15 pm] POST /api/register
+[April 1st 2016, 12:35:15 pm] POST /api/login
+[April 1st 2016, 12:35:15 pm] GET /api/users
+[April 1st 2016, 12:35:15 pm] Authenticating...
+[April 1st 2016, 12:35:15 pm] Found 1 valid users
+[April 1st 2016, 12:35:15 pm] Userid: kenneth
+[April 1st 2016, 12:35:15 pm] POST /api/register
+[April 1st 2016, 12:35:15 pm] POST /api/login
+[April 1st 2016, 12:35:15 pm] GET /api/users
+[April 1st 2016, 12:35:15 pm] Authenticating...
+[April 1st 2016, 12:35:15 pm] Found 1 valid users
+[April 1st 2016, 12:35:15 pm] Userid: kenneth
+[April 1st 2016, 12:35:15 pm] POST /api/register
+[April 1st 2016, 12:35:15 pm] POST /api/login
+[April 1st 2016, 12:39:35 pm] Listening server on port 8080
+[April 1st 2016, 12:39:35 pm] POST /api/register
+[April 1st 2016, 12:39:35 pm] POST /api/login
+[April 1st 2016, 12:39:35 pm] POST /api/register
+[April 1st 2016, 12:39:35 pm] POST /api/login
+[April 1st 2016, 12:39:35 pm] POST /api/register
+[April 1st 2016, 12:39:35 pm] POST /api/login
+[April 1st 2016, 12:39:35 pm] GET /api/lights
+[April 1st 2016, 12:39:35 pm] Authenticating...
+[April 1st 2016, 12:39:35 pm] Found 1 valid users
+[April 1st 2016, 12:39:35 pm] Userid: MOEDER
+[April 1st 2016, 12:39:35 pm] GET /api/light/yorick/off
+[April 1st 2016, 12:39:35 pm] Authenticating...
+[April 1st 2016, 12:39:35 pm] Found 1 valid users
+[April 1st 2016, 12:39:35 pm] Userid: MOEDER
+[April 1st 2016, 12:39:35 pm] GET /api/light/yorick/on
+[April 1st 2016, 12:39:35 pm] Authenticating...
+[April 1st 2016, 12:39:35 pm] Found 1 valid users
+[April 1st 2016, 12:39:35 pm] Userid: MOEDER
+[April 1st 2016, 12:39:35 pm] POST /api/register
+[April 1st 2016, 12:39:35 pm] POST /api/login
+[April 1st 2016, 12:39:35 pm] GET /api/lights
+[April 1st 2016, 12:39:35 pm] Authenticating...
+[April 1st 2016, 12:39:35 pm] Found 1 valid users
+[April 1st 2016, 12:39:35 pm] Userid: MOEDER
+[April 1st 2016, 12:39:35 pm] GET /api/lights
+[April 1st 2016, 12:39:35 pm] Authenticating...
+[April 1st 2016, 12:39:35 pm] Found 1 valid users
+[April 1st 2016, 12:39:35 pm] Userid: MOEDER
+[April 1st 2016, 12:39:35 pm] POST /api/register
+[April 1st 2016, 12:39:35 pm] POST /api/login
+[April 1st 2016, 12:43:27 pm] Listening server on port 8080
+[April 1st 2016, 12:43:27 pm] POST /api/register
+[April 1st 2016, 12:43:27 pm] POST /api/login
+[April 1st 2016, 12:43:27 pm] POST /api/register
+[April 1st 2016, 12:43:27 pm] POST /api/login
+[April 1st 2016, 12:43:27 pm] GET /api/login
+[April 1st 2016, 12:43:27 pm] GET /favicon.ico
+[April 1st 2016, 12:45:16 pm] Listening server on port 8080
+[April 1st 2016, 12:45:16 pm] POST /api/light/add
+[April 1st 2016, 12:45:16 pm] Authenticating...
+[April 1st 2016, 12:45:16 pm] Found 1 valid users
+[April 1st 2016, 12:45:16 pm] Userid: kenneth
+[April 1st 2016, 12:45:16 pm] GET /api/lights
+[April 1st 2016, 12:45:16 pm] Authenticating...
+[April 1st 2016, 12:45:16 pm] Found 1 valid users
+[April 1st 2016, 12:45:16 pm] Userid: MOEDER
+[April 1st 2016, 12:45:16 pm] POST /api/lights
+[April 1st 2016, 12:45:16 pm] Authenticating...
+[April 1st 2016, 12:45:16 pm] Found 1 valid users
+[April 1st 2016, 12:45:16 pm] Userid: kenneth
+[April 1st 2016, 12:45:16 pm] GET /api/lights
+[April 1st 2016, 12:45:16 pm] Authenticating...
+[April 1st 2016, 12:45:16 pm] Found 1 valid users
+[April 1st 2016, 12:45:16 pm] Userid: kenneth
+[April 1st 2016, 12:45:16 pm] GET /api/light/yorick/off
+[April 1st 2016, 12:45:16 pm] Authenticating...
+[April 1st 2016, 12:45:16 pm] Found 1 valid users
+[April 1st 2016, 12:45:16 pm] Userid: MOEDER
+[April 1st 2016, 12:45:16 pm] GET /api/light/yorick/on
+[April 1st 2016, 12:45:16 pm] Authenticating...
+[April 1st 2016, 12:45:16 pm] Found 1 valid users
+[April 1st 2016, 12:45:16 pm] Userid: MOEDER
+[April 1st 2016, 12:45:16 pm] GET /api/light/test/off
+[April 1st 2016, 12:45:16 pm] Authenticating...
+[April 1st 2016, 12:45:16 pm] Found 1 valid users
+[April 1st 2016, 12:45:16 pm] Userid: MOEDER
+[April 1st 2016, 12:45:16 pm] GET /api/light/test/on
+[April 1st 2016, 12:45:16 pm] Authenticating...
+[April 1st 2016, 12:45:16 pm] Found 1 valid users
+[April 1st 2016, 12:45:16 pm] Userid: MOEDER
+[April 1st 2016, 12:45:16 pm] GET /api/light/kenneth/off
+[April 1st 2016, 12:45:16 pm] Authenticating...
+[April 1st 2016, 12:45:16 pm] Found 1 valid users
+[April 1st 2016, 12:45:16 pm] Userid: MOEDER
+[April 1st 2016, 12:45:16 pm] GET /api/light/kenneth/on
+[April 1st 2016, 12:45:16 pm] Authenticating...
+[April 1st 2016, 12:45:16 pm] Found 1 valid users
+[April 1st 2016, 12:45:16 pm] Userid: MOEDER
+[April 1st 2016, 12:45:16 pm] GET /api/lights
+[April 1st 2016, 12:45:16 pm] Authenticating...
+[April 1st 2016, 12:45:16 pm] Found 0 valid users
+[April 1st 2016, 12:45:16 pm] POST /api/login
+[April 1st 2016, 12:45:16 pm] GET /api/lights
+[April 1st 2016, 12:45:16 pm] Authenticating...
+[April 1st 2016, 12:45:16 pm] Found 1 valid users
+[April 1st 2016, 12:45:16 pm] Userid: new
+[April 1st 2016, 12:54:43 pm] Listening server on port 8080
+[April 1st 2016, 12:54:43 pm] PUT /api/light
+[April 1st 2016, 12:54:43 pm] Authenticating...
+[April 1st 2016, 12:54:43 pm] Found 1 valid users
+[April 1st 2016, 12:54:43 pm] Userid: kenneth
+[April 1st 2016, 12:54:43 pm] GET /api/lights
+[April 1st 2016, 12:54:43 pm] Authenticating...
+[April 1st 2016, 12:54:43 pm] Found 1 valid users
+[April 1st 2016, 12:54:43 pm] Userid: kenneth
+[April 1st 2016, 12:54:43 pm] PUT /api/light
+[April 1st 2016, 12:54:43 pm] Authenticating...
+[April 1st 2016, 12:54:43 pm] Found 1 valid users
+[April 1st 2016, 12:54:43 pm] Userid: kenneth
+[April 1st 2016, 12:56:15 pm] Listening server on port 8080
+[April 1st 2016, 12:56:15 pm] GET /api/lights
+[April 1st 2016, 12:56:15 pm] Authenticating...
+[April 1st 2016, 12:56:15 pm] Found 1 valid users
+[April 1st 2016, 12:56:15 pm] Userid: kenneth
+[April 1st 2016, 12:56:15 pm] POST /api/light
+[April 1st 2016, 12:56:15 pm] Authenticating...
+[April 1st 2016, 12:56:15 pm] Found 1 valid users
+[April 1st 2016, 12:56:15 pm] Userid: kenneth
+[April 1st 2016, 12:56:15 pm] GET /api/lights
+[April 1st 2016, 12:56:15 pm] Authenticating...
+[April 1st 2016, 12:56:15 pm] Found 1 valid users
+[April 1st 2016, 12:56:15 pm] Userid: kenneth
+[April 1st 2016, 12:56:15 pm] GET /api/lights
+[April 1st 2016, 12:56:15 pm] Authenticating...
+[April 1st 2016, 12:56:15 pm] Found 1 valid users
+[April 1st 2016, 12:56:15 pm] Userid: new
+[April 1st 2016, 12:56:15 pm] POST /api/light
+[April 1st 2016, 12:56:15 pm] Authenticating...
+[April 1st 2016, 12:56:15 pm] Found 1 valid users
+[April 1st 2016, 12:56:15 pm] Userid: new
+[April 1st 2016, 12:56:15 pm] GET /api/lights
+[April 1st 2016, 12:56:15 pm] Authenticating...
+[April 1st 2016, 12:56:15 pm] Found 1 valid users
+[April 1st 2016, 12:56:15 pm] Userid: MOEDER
+[April 1st 2016, 12:56:15 pm] GET /api/light/yorick/off
+[April 1st 2016, 12:56:15 pm] Authenticating...
+[April 1st 2016, 12:56:15 pm] Found 1 valid users
+[April 1st 2016, 12:56:15 pm] Userid: MOEDER
+[April 1st 2016, 12:56:15 pm] GET /api/light/yorick/on
+[April 1st 2016, 12:56:15 pm] Authenticating...
+[April 1st 2016, 12:56:15 pm] Found 1 valid users
+[April 1st 2016, 12:56:15 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] Listening server on port 8080
+[April 1st 2016, 1:07:43 pm] GET /api/lights
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/lights
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/lights
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/lights
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/light/test/off
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/light/test/on
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/light/yorick/on
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/light/yorick/off
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/light/yorick/off
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/light/yorick/on
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/lights
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/light/yorick/off
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/light/yorick/on
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/light/yorick/off
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/light/yorick/on
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/light/yorick/off
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/light/yorick/on
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/lights
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/lights
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/lights
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/lights
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] POST /api/light
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: new
+[April 1st 2016, 1:07:43 pm] PUT /api/light
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: new
+[April 1st 2016, 1:07:43 pm] GET /api/lights
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/lights
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/lights
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/lights
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/lights
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/lights
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/lights
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 1:07:43 pm] GET /api/lights
+[April 1st 2016, 1:07:43 pm] Authenticating...
+[April 1st 2016, 1:07:43 pm] Found 1 valid users
+[April 1st 2016, 1:07:43 pm] Userid: MOEDER
+[April 1st 2016, 2:02:56 pm] Listening server on port 8080
+[April 1st 2016, 2:02:56 pm] GET /api/lights
+[April 1st 2016, 2:02:56 pm] Authenticating...
+[April 1st 2016, 2:02:56 pm] Found 1 valid users
+[April 1st 2016, 2:02:56 pm] Userid: MOEDER
+[April 1st 2016, 2:02:56 pm] GET /api/lights
+[April 1st 2016, 2:02:56 pm] Authenticating...
+[April 1st 2016, 2:02:56 pm] Found 1 valid users
+[April 1st 2016, 2:02:56 pm] Userid: MOEDER
+[April 1st 2016, 2:02:56 pm] GET /api/lights
+[April 1st 2016, 2:02:56 pm] Authenticating...
+[April 1st 2016, 2:02:56 pm] Found 1 valid users
+[April 1st 2016, 2:02:56 pm] Userid: MOEDER
+[April 1st 2016, 2:02:56 pm] GET /api/lights
+[April 1st 2016, 2:02:56 pm] Authenticating...
+[April 1st 2016, 2:02:56 pm] Found 1 valid users
+[April 1st 2016, 2:02:56 pm] Userid: MOEDER
+[April 1st 2016, 2:02:56 pm] PUT /api/light
+[April 1st 2016, 2:02:56 pm] Authenticating...
+[April 1st 2016, 2:02:56 pm] Authorization failed: Token not set
+[April 1st 2016, 2:02:56 pm] GET /api/lights
+[April 1st 2016, 2:02:56 pm] Authenticating...
+[April 1st 2016, 2:02:56 pm] Found 1 valid users
+[April 1st 2016, 2:02:56 pm] Userid: MOEDER
+[April 1st 2016, 2:02:56 pm] GET /api/lights
+[April 1st 2016, 2:02:56 pm] Authenticating...
+[April 1st 2016, 2:02:56 pm] Found 1 valid users
+[April 1st 2016, 2:02:56 pm] Userid: MOEDER
+[April 1st 2016, 2:02:56 pm] GET /api/lights
+[April 1st 2016, 2:02:56 pm] Authenticating...
+[April 1st 2016, 2:02:56 pm] Found 1 valid users
+[April 1st 2016, 2:02:56 pm] Userid: MOEDER
+[April 1st 2016, 2:02:56 pm] GET /api/lights
+[April 1st 2016, 2:02:56 pm] Authenticating...
+[April 1st 2016, 2:02:56 pm] Found 1 valid users
+[April 1st 2016, 2:02:56 pm] Userid: MOEDER
+[April 1st 2016, 2:02:56 pm] GET /api/lights
+[April 1st 2016, 2:02:56 pm] Authenticating...
+[April 1st 2016, 2:02:56 pm] Found 1 valid users
+[April 1st 2016, 2:02:56 pm] Userid: MOEDER
+[April 1st 2016, 2:02:56 pm] PUT /api/light
+[April 1st 2016, 2:02:56 pm] Authenticating...
+[April 1st 2016, 2:02:56 pm] Authorization failed: Token not set
+[April 1st 2016, 2:02:56 pm] PUT /api/light
+[April 1st 2016, 2:02:56 pm] Authenticating...
+[April 1st 2016, 2:02:56 pm] Found 1 valid users
+[April 1st 2016, 2:02:56 pm] Userid: new
+[April 1st 2016, 2:02:56 pm] PUT /api/light
+[April 1st 2016, 2:02:56 pm] Authenticating...
+[April 1st 2016, 2:02:56 pm] Found 1 valid users
+[April 1st 2016, 2:02:56 pm] Userid: new
+[April 1st 2016, 2:02:56 pm] GET /api/lights
+[April 1st 2016, 2:02:56 pm] Authenticating...
+[April 1st 2016, 2:02:56 pm] Found 1 valid users
+[April 1st 2016, 2:02:56 pm] Userid: MOEDER
+[April 1st 2016, 2:02:56 pm] PUT /api/light
+[April 1st 2016, 2:02:56 pm] Authenticating...
+[April 1st 2016, 2:02:56 pm] Found 1 valid users
+[April 1st 2016, 2:02:56 pm] Userid: MOEDER
+[April 1st 2016, 2:02:56 pm] GET /api/lights
+[April 1st 2016, 2:02:56 pm] Authenticating...
+[April 1st 2016, 2:02:56 pm] Found 1 valid users
+[April 1st 2016, 2:02:56 pm] Userid: new
