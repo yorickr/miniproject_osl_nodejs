@@ -12,7 +12,7 @@ var db = new sqlite3.Database(dbfile);
 var sys= require('sys');
 var exec= require('child_process').exec;
 
-function puts(error, stdout, stderr) { sys.puts(stdout) };
+function puts(error, stdout, stderr) { console.log("SYSEXEC: " + stdout) };
 
 router.all( new RegExp("[^(\/login|\/register)]"), function (req, res, next) {
 
@@ -166,7 +166,27 @@ router.post('/login', function (req, res) {
 	});
 });
 
-router.put('/light/:group/:num/:state', function (req, res) {
+// Restfull logout
+router.post('/logout', function (req, res) {
+
+	var token = (req.header('X-Access-Token')) || '';
+
+    var query = "UPDATE user SET access='' WHERE access='" + token + "';";
+
+    db.run(query);
+
+	var results = [];
+    res.status(200);
+    results.push({
+      success:true,
+      msg: "Logged out"
+    });
+
+    res.json(results);
+});
+
+//Turn on or of a light
+router.get('/light/:group/:num/:state', function (req, res) {
     var group = req.params.group;
     var num = req.params.num;
     var state = req.params.state;
@@ -184,6 +204,7 @@ router.put('/light/:group/:num/:state', function (req, res) {
     res.json(results);
 });
 
+//Turn on or off a light in the database
 router.get('/light/:name/:state', function (req, res) {
     var name = req.params.name;
     var state = req.params.state;
@@ -214,6 +235,7 @@ router.get('/light/:name/:state', function (req, res) {
 	});
 });
 
+//Add a new light to the database
 router.post('/light', function (req, res) {
 	var name = req.body.name || '';
     var group = req.body.group || '';
@@ -264,6 +286,7 @@ router.post('/light', function (req, res) {
 });
 
 
+//Update a light in the database
 router.put('/light', function (req, res) {
 	var name = req.body.name || '';
     var group = req.body.group || '';
@@ -295,7 +318,25 @@ router.put('/light', function (req, res) {
     res.json(results);
 });
 
-// Example call
+//Get all the users in the database (Testing purposes only)
+router.get('/user', function (req, res) {
+
+	var token = (req.header('X-Access-Token')) || '';
+
+    // db lookup
+    var query = "SELECT username FROM user WHERE access='" + token + "';";
+    db.get(query, function (err, rows) {
+        if(err) throw err;
+            var results = [];
+            results.push({
+                username: item.username
+            });
+            res.json(results);
+        });
+    res.status(200);
+});
+
+//Get all the users in the database (Testing purposes only)
 router.get('/users', function (req, res) {
 
     // db lookup
@@ -317,6 +358,7 @@ router.get('/users', function (req, res) {
     res.status(200);
 });
 
+//Get all the lights in te database
 router.get('/lights', function (req, res) {
 
     // db lookup
@@ -338,7 +380,7 @@ router.get('/lights', function (req, res) {
     res.status(200);
 });
 
-//Fix
+//Fall back, display an error
 router.get('/light*', function (req, res) {
     var results = [];
     res.status(400);
