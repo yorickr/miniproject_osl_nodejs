@@ -5,6 +5,14 @@ var router = express.Router();
 var jwt = require('jwt-simple');
 var sqlite3 = require('sqlite3').verbose();
 var path = require('path');
+var gpio = require('gpio');
+var sleep = require('sleep');
+
+var gpio0 = gpio.export(17, {
+   direction: "in",
+   ready: function() {
+   }
+});
 
 var dbfile = "miniproject.db";
 var db = new sqlite3.Database(dbfile);
@@ -12,7 +20,7 @@ var db = new sqlite3.Database(dbfile);
 var sys= require('sys');
 var exec= require('child_process').exec;
 
-function puts(error, stdout, stderr) { console.log("SYSEXEC: " + stdout) };
+function puts(error, stdout, stderr) { console.log("Executing a command"); /* nope */ };
 
 router.all( new RegExp("[^(\/login|\/register)]"), function (req, res, next) {
 
@@ -235,6 +243,23 @@ router.get('/light/:name/:state', function (req, res) {
 	});
 });
 
+//Turn on or off a light in the database
+router.delete('/light/:name', function (req, res) {
+    var name = req.params.name;
+
+    var query = "DELETE FROM light WHERE name='" + name + "';";
+    db.run(query);
+
+	var results = [];
+    res.status(200);
+    results.push({
+      success:true,
+      name: name
+    });
+
+    res.json(results);
+});
+
 //Add a new light to the database
 router.post('/light', function (req, res) {
 	var name = req.body.name || '';
@@ -399,5 +424,27 @@ router.get('/', function (req, res) {
     });
 });
 
+// bind to the "change" event
+gpio0.on("change", function(val) {
+   // value will report either 1 or 0 (number) when the value changes
+   console.log("GPIO CHANGED: " + val);
+
+   if(val == 0)
+   		return;
+
+   var query = "SELECT class, channel FROM light WHERE 1;";
+    db.all(query, function (err, rows) {
+        if(err) throw err;
+
+        var count = 0;
+
+        rows.forEach(function(item){
+        	sleep.sleep(count);
+        	console.log("Turning off " + item.class + " - " + item.channel + " (sleep:" + count + ")");
+        	exec('sudo ./kaku ' + item.class + ' ' + item.channel + ' off', puts);
+        	count += 3;
+        });
+	});
+});
 
 module.exports = router;

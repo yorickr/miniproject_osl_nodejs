@@ -1472,3 +1472,1826 @@
 [April 1st 2016, 2:02:56 pm] Authenticating...
 [April 1st 2016, 2:02:56 pm] Found 1 valid users
 [April 1st 2016, 2:02:56 pm] Userid: new
+[April 5th 2016, 8:31:56 am] Listening server on port 8080
+[April 5th 2016, 8:31:56 am] GET /api/lights
+[April 5th 2016, 8:31:56 am] Authenticating...
+[April 5th 2016, 8:31:56 am] Found 1 valid users
+[April 5th 2016, 8:31:56 am] Userid: MOEDER
+[April 5th 2016, 8:31:56 am] GET /api/light/yorick/off
+[April 5th 2016, 8:31:56 am] Authenticating...
+[April 5th 2016, 8:31:56 am] Found 1 valid users
+[April 5th 2016, 8:31:56 am] Userid: MOEDER
+[April 5th 2016, 8:31:56 am] SYSEXEC: 
+[April 5th 2016, 8:31:56 am] GET /api/light/yorick/on
+[April 5th 2016, 8:31:56 am] Authenticating...
+[April 5th 2016, 8:31:56 am] Found 1 valid users
+[April 5th 2016, 8:31:56 am] Userid: MOEDER
+[April 5th 2016, 8:31:56 am] SYSEXEC: 
+[April 5th 2016, 8:40:21 am] Listening server on port 8080
+[April 5th 2016, 8:40:21 am] DELETE /api/light/Janco
+[April 5th 2016, 8:40:21 am] Authenticating...
+[April 5th 2016, 8:40:21 am] Found 1 valid users
+[April 5th 2016, 8:40:21 am] Userid: kenneth
+[April 5th 2016, 8:41:52 am] Listening server on port 8080
+[April 5th 2016, 8:41:52 am] DELETE /api/light/Janco
+[April 5th 2016, 8:41:52 am] Authenticating...
+[April 5th 2016, 8:41:52 am] Found 1 valid users
+[April 5th 2016, 8:41:52 am] Userid: kenneth
+[April 5th 2016, 8:41:52 am] Error: SQLITE_ERROR: no such table: ligth
+    at Error (native)
+[April 5th 2016, 8:42:32 am] Listening server on port 8080
+[April 5th 2016, 8:42:32 am] DELETE /api/light/Janco
+[April 5th 2016, 8:42:32 am] Authenticating...
+[April 5th 2016, 8:42:32 am] Found 1 valid users
+[April 5th 2016, 8:42:32 am] Userid: kenneth
+[April 5th 2016, 8:42:32 am] GET /api/lights
+[April 5th 2016, 8:42:32 am] Authenticating...
+[April 5th 2016, 8:42:32 am] Found 1 valid users
+[April 5th 2016, 8:42:32 am] Userid: kenneth
+[April 5th 2016, 8:57:33 am] Listening server on port 8080
+[April 5th 2016, 8:57:33 am] GET /api/lights
+[April 5th 2016, 8:57:33 am] Authenticating...
+[April 5th 2016, 8:57:33 am] Found 1 valid users
+[April 5th 2016, 8:57:33 am] Userid: MOEDER
+[April 5th 2016, 8:57:33 am] GET /api/lights
+[April 5th 2016, 8:57:33 am] Authenticating...
+[April 5th 2016, 8:57:33 am] Found 1 valid users
+[April 5th 2016, 8:57:33 am] Userid: MOEDER
+[April 5th 2016, 8:57:33 am] GET /api/lights
+[April 5th 2016, 8:57:33 am] Authenticating...
+[April 5th 2016, 8:57:33 am] Found 1 valid users
+[April 5th 2016, 8:57:33 am] Userid: MOEDER
+[April 5th 2016, 8:57:33 am] GET /api/lights
+[April 5th 2016, 8:57:33 am] Authenticating...
+[April 5th 2016, 8:57:33 am] Found 1 valid users
+[April 5th 2016, 8:57:33 am] Userid: MOEDER
+[April 5th 2016, 8:57:33 am] GET /api/lights
+[April 5th 2016, 8:57:33 am] Authenticating...
+[April 5th 2016, 8:57:33 am] Found 1 valid users
+[April 5th 2016, 8:57:33 am] Userid: MOEDER
+[April 5th 2016, 8:57:33 am] GET /api/lights
+[April 5th 2016, 8:57:33 am] Authenticating...
+[April 5th 2016, 8:57:33 am] Found 1 valid users
+[April 5th 2016, 8:57:33 am] Userid: MOEDER
+[April 5th 2016, 8:57:33 am] GET /api/lights
+[April 5th 2016, 8:57:33 am] Authenticating...
+[April 5th 2016, 8:57:33 am] Found 1 valid users
+[April 5th 2016, 8:57:33 am] Userid: MOEDER
+[April 5th 2016, 8:57:33 am] GET /api/lights
+[April 5th 2016, 8:57:33 am] Authenticating...
+[April 5th 2016, 8:57:33 am] Found 1 valid users
+[April 5th 2016, 8:57:33 am] Userid: MOEDER
+[April 5th 2016, 8:57:33 am] GET /api/light/yorick/off
+[April 5th 2016, 8:57:33 am] Authenticating...
+[April 5th 2016, 8:57:33 am] Found 1 valid users
+[April 5th 2016, 8:57:33 am] Userid: MOEDER
+[April 5th 2016, 8:57:33 am] GET /api/light/kenneth/off
+[April 5th 2016, 8:57:33 am] Authenticating...
+[April 5th 2016, 8:57:33 am] Found 1 valid users
+[April 5th 2016, 8:57:33 am] Userid: MOEDER
+[April 5th 2016, 8:57:33 am] SYSEXEC: 
+[April 5th 2016, 8:57:33 am] SYSEXEC: 
+[April 5th 2016, 8:57:33 am] PUT /api/light
+[April 5th 2016, 8:57:33 am] Authenticating...
+[April 5th 2016, 8:57:33 am] Found 1 valid users
+[April 5th 2016, 8:57:33 am] Userid: MOEDER
+[April 5th 2016, 8:57:33 am] GET /api/lights
+[April 5th 2016, 8:57:33 am] Authenticating...
+[April 5th 2016, 8:57:33 am] Found 1 valid users
+[April 5th 2016, 8:57:33 am] Userid: MOEDER
+[April 5th 2016, 8:57:33 am] GET /api/light/yorick/on
+[April 5th 2016, 8:57:33 am] Authenticating...
+[April 5th 2016, 8:57:33 am] Found 1 valid users
+[April 5th 2016, 8:57:33 am] Userid: MOEDER
+[April 5th 2016, 8:57:33 am] GET /api/light/kenneth/on
+[April 5th 2016, 8:57:33 am] Authenticating...
+[April 5th 2016, 8:57:33 am] Found 1 valid users
+[April 5th 2016, 8:57:33 am] Userid: MOEDER
+[April 5th 2016, 8:57:33 am] SYSEXEC: 
+[April 5th 2016, 8:57:33 am] SYSEXEC: 
+[April 5th 2016, 8:57:33 am] GET /api/lights
+[April 5th 2016, 8:57:33 am] Authenticating...
+[April 5th 2016, 8:57:33 am] Found 1 valid users
+[April 5th 2016, 8:57:33 am] Userid: MOEDER
+[April 5th 2016, 9:05:35 am] Listening server on port 8080
+[April 5th 2016, 9:05:54 am] Listening server on port 8080
+[April 5th 2016, 9:05:54 am] GET /api/lights
+[April 5th 2016, 9:05:54 am] Authenticating...
+[April 5th 2016, 9:05:54 am] Found 1 valid users
+[April 5th 2016, 9:05:54 am] Userid: MOEDER
+[April 5th 2016, 9:05:54 am] GET /api/lights
+[April 5th 2016, 9:05:54 am] Authenticating...
+[April 5th 2016, 9:05:54 am] Found 1 valid users
+[April 5th 2016, 9:05:54 am] Userid: MOEDER
+[April 5th 2016, 9:05:54 am] GET /api/light/yorick/off
+[April 5th 2016, 9:05:54 am] Authenticating...
+[April 5th 2016, 9:05:54 am] Found 1 valid users
+[April 5th 2016, 9:05:54 am] Userid: MOEDER
+[April 5th 2016, 9:05:54 am] GET /api/light/kenneth/off
+[April 5th 2016, 9:05:54 am] Authenticating...
+[April 5th 2016, 9:05:54 am] Found 1 valid users
+[April 5th 2016, 9:05:54 am] Userid: MOEDER
+[April 5th 2016, 9:05:54 am] SYSEXEC: 
+[April 5th 2016, 9:05:54 am] SYSEXEC: 
+[April 5th 2016, 9:05:54 am] PUT /api/light
+[April 5th 2016, 9:05:54 am] Authenticating...
+[April 5th 2016, 9:05:54 am] Found 1 valid users
+[April 5th 2016, 9:05:54 am] Userid: MOEDER
+[April 5th 2016, 9:05:54 am] GET /api/light/kenneth/on
+[April 5th 2016, 9:05:54 am] Authenticating...
+[April 5th 2016, 9:05:54 am] Found 1 valid users
+[April 5th 2016, 9:05:54 am] Userid: MOEDER
+[April 5th 2016, 9:05:54 am] GET /api/light/yorick/on
+[April 5th 2016, 9:05:54 am] Authenticating...
+[April 5th 2016, 9:05:54 am] Found 1 valid users
+[April 5th 2016, 9:05:54 am] Userid: MOEDER
+[April 5th 2016, 9:05:54 am] SYSEXEC: 
+[April 5th 2016, 9:05:54 am] SYSEXEC: 
+[April 5th 2016, 9:05:54 am] GET /api/lights
+[April 5th 2016, 9:05:54 am] Authenticating...
+[April 5th 2016, 9:05:54 am] Found 1 valid users
+[April 5th 2016, 9:05:54 am] Userid: MOEDER
+[April 5th 2016, 9:08:15 am] Listening server on port 8080
+[April 5th 2016, 9:11:17 am] Listening server on port 8080
+[April 5th 2016, 9:13:23 am] Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at Server._listen2 (net.js:1234:14)
+    at listen (net.js:1270:10)
+    at Server.listen (net.js:1366:5)
+    at EventEmitter.listen (/home/pi/miniproject/node_modules/express/lib/application.js:617:24)
+    at Object.<anonymous> (/home/pi/miniproject/app.js:71:18)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+[April 5th 2016, 9:13:46 am] Listening server on port 8080
+[April 5th 2016, 9:13:46 am] GET /api/lights
+[April 5th 2016, 9:13:46 am] Authenticating...
+[April 5th 2016, 9:13:46 am] Found 1 valid users
+[April 5th 2016, 9:13:46 am] Userid: MOEDER
+[April 5th 2016, 9:13:46 am] GET /api/lights
+[April 5th 2016, 9:13:46 am] Authenticating...
+[April 5th 2016, 9:13:46 am] Found 1 valid users
+[April 5th 2016, 9:13:46 am] Userid: MOEDER
+[April 5th 2016, 9:13:46 am] PUT /api/light
+[April 5th 2016, 9:13:46 am] Authenticating...
+[April 5th 2016, 9:13:46 am] Found 1 valid users
+[April 5th 2016, 9:13:46 am] Userid: MOEDER
+[April 5th 2016, 9:13:46 am] GET /api/lights
+[April 5th 2016, 9:13:46 am] Authenticating...
+[April 5th 2016, 9:13:46 am] Found 1 valid users
+[April 5th 2016, 9:13:46 am] Userid: MOEDER
+[April 5th 2016, 9:24:56 am] Listening server on port 8080
+[April 5th 2016, 9:24:56 am] GET /api/lights
+[April 5th 2016, 9:24:56 am] Authenticating...
+[April 5th 2016, 9:24:56 am] Found 1 valid users
+[April 5th 2016, 9:24:56 am] Userid: MOEDER
+[April 5th 2016, 9:24:56 am] PUT /api/light
+[April 5th 2016, 9:24:56 am] Authenticating...
+[April 5th 2016, 9:24:56 am] Found 1 valid users
+[April 5th 2016, 9:24:56 am] Userid: MOEDER
+[April 5th 2016, 9:24:56 am] GET /api/lights
+[April 5th 2016, 9:24:56 am] Authenticating...
+[April 5th 2016, 9:24:56 am] Found 1 valid users
+[April 5th 2016, 9:24:56 am] Userid: MOEDER
+[April 5th 2016, 9:27:32 am] Listening server on port 8080
+[April 5th 2016, 9:28:36 am] Listening server on port 8080
+[April 5th 2016, 9:28:36 am] GPIO CHANGED: 1
+[April 5th 2016, 9:28:36 am] SYSEXEC: 
+[April 5th 2016, 9:28:36 am] SYSEXEC: 
+[April 5th 2016, 9:28:36 am] SYSEXEC: 
+[April 5th 2016, 9:28:36 am] SYSEXEC: 
+[April 5th 2016, 9:28:36 am] GPIO CHANGED: 0
+[April 5th 2016, 9:28:36 am] GPIO CHANGED: 1
+[April 5th 2016, 9:28:36 am] GPIO CHANGED: 0
+[April 5th 2016, 9:28:36 am] SYSEXEC: 
+[April 5th 2016, 9:28:36 am] SYSEXEC: 
+[April 5th 2016, 9:28:36 am] SYSEXEC: 
+[April 5th 2016, 9:28:36 am] SYSEXEC: 
+[April 5th 2016, 9:28:36 am] GPIO CHANGED: 1
+[April 5th 2016, 9:28:36 am] SYSEXEC: 
+[April 5th 2016, 9:28:36 am] SYSEXEC: 
+[April 5th 2016, 9:28:36 am] SYSEXEC: 
+[April 5th 2016, 9:28:36 am] SYSEXEC: 
+[April 5th 2016, 9:28:36 am] GPIO CHANGED: 0
+[April 5th 2016, 9:30:10 am] Listening server on port 8080
+[April 5th 2016, 9:30:10 am] GPIO CHANGED: 1
+[April 5th 2016, 9:30:10 am] Turning off M - 14
+[April 5th 2016, 9:30:10 am] Turning off M - 13
+[April 5th 2016, 9:30:10 am] Turning off M - 14
+[April 5th 2016, 9:30:10 am] Turning off Y - 1
+[April 5th 2016, 9:30:10 am] GPIO CHANGED: 0
+[April 5th 2016, 9:30:10 am] GET /api/lights
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: MOEDER
+[April 5th 2016, 9:30:10 am] GET /api/lights
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: kenneth
+[April 5th 2016, 9:30:10 am] GET /api/light/yorick/off
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: MOEDER
+[April 5th 2016, 9:30:10 am] GET /api/light/yorick/on
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: MOEDER
+[April 5th 2016, 9:30:10 am] GET /api/lights
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: kenneth
+[April 5th 2016, 9:30:10 am] GET /api/lights
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: MOEDER
+[April 5th 2016, 9:30:10 am] GPIO CHANGED: 1
+[April 5th 2016, 9:30:10 am] Turning off M - 14
+[April 5th 2016, 9:30:10 am] Turning off M - 13
+[April 5th 2016, 9:30:10 am] Turning off M - 14
+[April 5th 2016, 9:30:10 am] Turning off Y - 1
+[April 5th 2016, 9:30:10 am] GPIO CHANGED: 0
+[April 5th 2016, 9:30:10 am] GET /api/lights
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: MOEDER
+[April 5th 2016, 9:30:10 am] PUT /api/light
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: MOEDER
+[April 5th 2016, 9:30:10 am] GET /api/lights
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: MOEDER
+[April 5th 2016, 9:30:10 am] GET /api/lights
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: MOEDER
+[April 5th 2016, 9:30:10 am] GET /api/lights
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: kenneth
+[April 5th 2016, 9:30:10 am] GET /api/light/kenneth/off
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: MOEDER
+[April 5th 2016, 9:30:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: MOEDER
+[April 5th 2016, 9:30:10 am] DELETE /api/light/test
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: kenneth
+[April 5th 2016, 9:30:10 am] PUT /api/light
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: MOEDER
+[April 5th 2016, 9:30:10 am] GET /api/lights
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: MOEDER
+[April 5th 2016, 9:30:10 am] GET /api/lights
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: kenneth
+[April 5th 2016, 9:30:10 am] GET /api/light/yorick/on
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: MOEDER
+[April 5th 2016, 9:30:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: MOEDER
+[April 5th 2016, 9:30:10 am] GET /api/lights
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: MOEDER
+[April 5th 2016, 9:30:10 am] GPIO CHANGED: 1
+[April 5th 2016, 9:30:10 am] Turning off M - 14
+[April 5th 2016, 9:30:10 am] Turning off M - 12
+[April 5th 2016, 9:30:10 am] Turning off Y - 1
+[April 5th 2016, 9:30:10 am] GPIO CHANGED: 0
+[April 5th 2016, 9:30:10 am] GET /api/light/yorick/off
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: MOEDER
+[April 5th 2016, 9:30:10 am] GET /api/light/yorick/on
+[April 5th 2016, 9:30:10 am] Authenticating...
+[April 5th 2016, 9:30:10 am] Found 1 valid users
+[April 5th 2016, 9:30:10 am] Userid: MOEDER
+[April 5th 2016, 9:34:58 am] Listening server on port 8080
+[April 5th 2016, 9:34:58 am] GPIO CHANGED: 1
+[April 5th 2016, 9:34:58 am] Turning off M - 14
+[April 5th 2016, 9:34:58 am] Turning off M - 12
+[April 5th 2016, 9:34:58 am] Turning off Y - 1
+[April 5th 2016, 9:34:58 am] Executing a command
+[April 5th 2016, 9:34:58 am] Executing a command
+[April 5th 2016, 9:34:58 am] Executing a command
+[April 5th 2016, 9:34:58 am] GPIO CHANGED: 0
+[April 5th 2016, 9:38:06 am] Listening server on port 8080
+[April 5th 2016, 9:38:06 am] GPIO CHANGED: 1
+[April 5th 2016, 9:38:06 am] Turning off M - 14
+[April 5th 2016, 9:38:06 am] Turning off M - 12
+[April 5th 2016, 9:38:06 am] Turning off Y - 1
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] GPIO CHANGED: 0
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] GET /api/lights
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] GET /api/light/yorick/on
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] GET /api/light/yorick/on
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] GET /api/light/kenneth/on
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] GET /api/light/hoi/on
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] GPIO CHANGED: 1
+[April 5th 2016, 9:38:06 am] Turning off M - 14
+[April 5th 2016, 9:38:06 am] Turning off M - 12
+[April 5th 2016, 9:38:06 am] Turning off Y - 1
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] GPIO CHANGED: 0
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] GET /api/lights
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] GET /api/lights
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] GPIO CHANGED: 1
+[April 5th 2016, 9:38:06 am] Turning off M - 14
+[April 5th 2016, 9:38:06 am] Turning off M - 12
+[April 5th 2016, 9:38:06 am] Turning off Y - 1
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] GPIO CHANGED: 0
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] GET /api/light/kenneth/on
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: kenneth
+[April 5th 2016, 9:38:06 am] GET /api/lights
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] GPIO CHANGED: 1
+[April 5th 2016, 9:38:06 am] Turning off M - 14
+[April 5th 2016, 9:38:06 am] Turning off M - 12
+[April 5th 2016, 9:38:06 am] Turning off Y - 1
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] GPIO CHANGED: 0
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] PUT /api/light
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] GET /api/lights
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] PUT /api/light
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] GET /api/lights
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] POST /api/light
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Authorization failed: Token not set
+[April 5th 2016, 9:38:06 am] GET /api/lights
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] GET /api/lights
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] GET /api/lights
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] PUT /api/light
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] GET /api/lights
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] POST /api/light
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] GET /api/lights
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] GET /api/lights
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: MOEDER
+[April 5th 2016, 9:38:06 am] GET /api/lights
+[April 5th 2016, 9:38:06 am] Authenticating...
+[April 5th 2016, 9:38:06 am] Found 1 valid users
+[April 5th 2016, 9:38:06 am] Userid: kenneth
+[April 5th 2016, 9:38:06 am] GPIO CHANGED: 1
+[April 5th 2016, 9:38:06 am] Turning off M - 14
+[April 5th 2016, 9:38:06 am] Turning off M - 12
+[April 5th 2016, 9:38:06 am] Turning off K - 1
+[April 5th 2016, 9:38:06 am] Turning off G - 1337
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] GPIO CHANGED: 0
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] GPIO CHANGED: 1
+[April 5th 2016, 9:38:06 am] Turning off M - 14
+[April 5th 2016, 9:38:06 am] Turning off M - 12
+[April 5th 2016, 9:38:06 am] Turning off K - 1
+[April 5th 2016, 9:38:06 am] Turning off G - 1337
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] GPIO CHANGED: 0
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] GPIO CHANGED: 1
+[April 5th 2016, 9:38:06 am] Turning off M - 14
+[April 5th 2016, 9:38:06 am] Turning off M - 12
+[April 5th 2016, 9:38:06 am] Turning off K - 1
+[April 5th 2016, 9:38:06 am] Turning off G - 1337
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] GPIO CHANGED: 0
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] GPIO CHANGED: 1
+[April 5th 2016, 9:38:06 am] Turning off M - 14
+[April 5th 2016, 9:38:06 am] Turning off M - 12
+[April 5th 2016, 9:38:06 am] Turning off K - 1
+[April 5th 2016, 9:38:06 am] Turning off G - 1337
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] GPIO CHANGED: 0
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:38:06 am] Executing a command
+[April 5th 2016, 9:49:56 am] Listening server on port 8080
+[April 5th 2016, 9:49:56 am] GET /api/light/kenneth/on
+[April 5th 2016, 9:49:56 am] Authenticating...
+[April 5th 2016, 9:49:56 am] Found 1 valid users
+[April 5th 2016, 9:49:56 am] Userid: kenneth
+[April 5th 2016, 9:49:56 am] Executing a command
+[April 5th 2016, 9:49:56 am] GET /api/light/kenneth/off
+[April 5th 2016, 9:49:56 am] Authenticating...
+[April 5th 2016, 9:49:56 am] Found 1 valid users
+[April 5th 2016, 9:49:56 am] Userid: kenneth
+[April 5th 2016, 9:49:56 am] Executing a command
+[April 5th 2016, 9:49:56 am] GET /api/light/kenneth/on
+[April 5th 2016, 9:49:56 am] Authenticating...
+[April 5th 2016, 9:49:56 am] Found 1 valid users
+[April 5th 2016, 9:49:56 am] Userid: kenneth
+[April 5th 2016, 9:49:56 am] Executing a command
+[April 5th 2016, 9:49:56 am] GET /api/light/yorick/on
+[April 5th 2016, 9:49:56 am] Authenticating...
+[April 5th 2016, 9:49:56 am] Found 1 valid users
+[April 5th 2016, 9:49:56 am] Userid: kenneth
+[April 5th 2016, 9:49:56 am] Executing a command
+[April 5th 2016, 9:49:56 am] GET /api/lights
+[April 5th 2016, 9:49:56 am] Authenticating...
+[April 5th 2016, 9:49:56 am] Found 1 valid users
+[April 5th 2016, 9:49:56 am] Userid: kenneth
+[April 5th 2016, 9:49:56 am] GPIO CHANGED: 1
+[April 5th 2016, 9:49:56 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 9:49:56 am] Turning off M - 12 (sleep:1)
+[April 5th 2016, 9:49:56 am] Turning off K - 1 (sleep:2)
+[April 5th 2016, 9:49:56 am] Turning off G - 1337 (sleep:3)
+[April 5th 2016, 9:49:56 am] Executing a command
+[April 5th 2016, 9:49:56 am] Executing a command
+[April 5th 2016, 9:49:56 am] GPIO CHANGED: 0
+[April 5th 2016, 9:49:56 am] Executing a command
+[April 5th 2016, 9:49:56 am] Executing a command
+[April 5th 2016, 9:49:56 am] GET /api/light/kenneth/on
+[April 5th 2016, 9:49:56 am] Authenticating...
+[April 5th 2016, 9:49:56 am] Found 1 valid users
+[April 5th 2016, 9:49:56 am] Userid: kenneth
+[April 5th 2016, 9:49:56 am] Executing a command
+[April 5th 2016, 9:49:56 am] GET /api/light/kenneth/off
+[April 5th 2016, 9:49:56 am] Authenticating...
+[April 5th 2016, 9:49:56 am] Found 1 valid users
+[April 5th 2016, 9:49:56 am] Userid: kenneth
+[April 5th 2016, 9:49:56 am] Executing a command
+[April 5th 2016, 9:49:56 am] GET /api/light/kenneth/on
+[April 5th 2016, 9:49:56 am] Authenticating...
+[April 5th 2016, 9:49:56 am] Found 1 valid users
+[April 5th 2016, 9:49:56 am] Userid: kenneth
+[April 5th 2016, 9:49:56 am] Executing a command
+[April 5th 2016, 9:52:04 am] Listening server on port 8080
+[April 5th 2016, 9:52:04 am] GET /api/light/kenneth/on
+[April 5th 2016, 9:52:04 am] Authenticating...
+[April 5th 2016, 9:52:04 am] Found 1 valid users
+[April 5th 2016, 9:52:04 am] Userid: kenneth
+[April 5th 2016, 9:52:04 am] Executing a command
+[April 5th 2016, 9:52:04 am] GET /api/light/yorick/on
+[April 5th 2016, 9:52:04 am] Authenticating...
+[April 5th 2016, 9:52:04 am] Found 1 valid users
+[April 5th 2016, 9:52:04 am] Userid: kenneth
+[April 5th 2016, 9:52:04 am] Executing a command
+[April 5th 2016, 9:52:04 am] GET /api/lights
+[April 5th 2016, 9:52:04 am] Authenticating...
+[April 5th 2016, 9:52:04 am] Found 1 valid users
+[April 5th 2016, 9:52:04 am] Userid: kenneth
+[April 5th 2016, 9:52:04 am] GPIO CHANGED: 1
+[April 5th 2016, 9:52:04 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 9:52:04 am] Turning off M - 12 (sleep:2)
+[April 5th 2016, 9:52:04 am] Turning off K - 1 (sleep:4)
+[April 5th 2016, 9:52:04 am] Turning off G - 1337 (sleep:6)
+[April 5th 2016, 9:52:04 am] Executing a command
+[April 5th 2016, 9:52:04 am] Executing a command
+[April 5th 2016, 9:52:04 am] GPIO CHANGED: 0
+[April 5th 2016, 9:52:04 am] Executing a command
+[April 5th 2016, 9:52:04 am] Executing a command
+[April 5th 2016, 9:52:04 am] GET /api/lights
+[April 5th 2016, 9:52:04 am] Authenticating...
+[April 5th 2016, 9:52:04 am] Found 1 valid users
+[April 5th 2016, 9:52:04 am] Userid: MOEDER
+[April 5th 2016, 9:52:04 am] DELETE /api/light/Daniel
+[April 5th 2016, 9:52:04 am] Authenticating...
+[April 5th 2016, 9:52:04 am] Found 1 valid users
+[April 5th 2016, 9:52:04 am] Userid: kenneth
+[April 5th 2016, 9:52:04 am] GET /api/lights
+[April 5th 2016, 9:52:04 am] Authenticating...
+[April 5th 2016, 9:52:04 am] Found 1 valid users
+[April 5th 2016, 9:52:04 am] Userid: kenneth
+[April 5th 2016, 9:52:04 am] GPIO CHANGED: 1
+[April 5th 2016, 9:52:04 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 9:52:04 am] Turning off M - 12 (sleep:2)
+[April 5th 2016, 9:52:04 am] Turning off K - 1 (sleep:4)
+[April 5th 2016, 9:52:04 am] Executing a command
+[April 5th 2016, 9:52:04 am] GPIO CHANGED: 0
+[April 5th 2016, 9:52:04 am] Executing a command
+[April 5th 2016, 9:52:04 am] Executing a command
+[April 5th 2016, 9:54:21 am] Listening server on port 8080
+[April 5th 2016, 9:54:21 am] GET /api/lights
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: MOEDER
+[April 5th 2016, 9:54:21 am] GET /api/light/yorick/on
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: kenneth
+[April 5th 2016, 9:54:21 am] GET /api/lights
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: MOEDER
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] GET /api/lights
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: kenneth
+[April 5th 2016, 9:54:21 am] GPIO CHANGED: 1
+[April 5th 2016, 9:54:21 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 9:54:21 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 9:54:21 am] Turning off K - 1 (sleep:6)
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] GPIO CHANGED: 0
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] GET /api/light/kenneth/on
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: kenneth
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] GET /api/light/yorick/on
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: kenneth
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] GPIO CHANGED: 1
+[April 5th 2016, 9:54:21 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 9:54:21 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 9:54:21 am] Turning off K - 1 (sleep:6)
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] GPIO CHANGED: 0
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] GET /api/light/yorick/on
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: kenneth
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] GET /api/lights
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: kenneth
+[April 5th 2016, 9:54:21 am] GPIO CHANGED: 1
+[April 5th 2016, 9:54:21 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 9:54:21 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 9:54:21 am] Turning off K - 1 (sleep:6)
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] GPIO CHANGED: 0
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] GET /api/lights
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: MOEDER
+[April 5th 2016, 9:54:21 am] POST /api/light
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: MOEDER
+[April 5th 2016, 9:54:21 am] GET /api/lights
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: MOEDER
+[April 5th 2016, 9:54:21 am] GET /api/lights
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: MOEDER
+[April 5th 2016, 9:54:21 am] GPIO CHANGED: 1
+[April 5th 2016, 9:54:21 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 9:54:21 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 9:54:21 am] Turning off K - 1 (sleep:6)
+[April 5th 2016, 9:54:21 am] Turning off T - W (sleep:9)
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] GPIO CHANGED: 0
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] PUT /api/light
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: MOEDER
+[April 5th 2016, 9:54:21 am] GET /api/lights
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: MOEDER
+[April 5th 2016, 9:54:21 am] GET /api/lights
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: MOEDER
+[April 5th 2016, 9:54:21 am] PUT /api/light
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: MOEDER
+[April 5th 2016, 9:54:21 am] GET /api/lights
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: MOEDER
+[April 5th 2016, 9:54:21 am] GET /api/light/yorick/off
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: MOEDER
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] GET /api/lights
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: MOEDER
+[April 5th 2016, 9:54:21 am] GET /api/light/yorick/on
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: MOEDER
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] GPIO CHANGED: 1
+[April 5th 2016, 9:54:21 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 9:54:21 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 9:54:21 am] Turning off K - 1 (sleep:6)
+[April 5th 2016, 9:54:21 am] Turning off T - W (sleep:9)
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] GPIO CHANGED: 0
+[April 5th 2016, 9:54:21 am] Executing a command
+[April 5th 2016, 9:54:21 am] GET /api/lights
+[April 5th 2016, 9:54:21 am] Authenticating...
+[April 5th 2016, 9:54:21 am] Found 1 valid users
+[April 5th 2016, 9:54:21 am] Userid: MOEDER
+[April 5th 2016, 10:14:26 am] Listening server on port 8080
+[April 5th 2016, 10:14:26 am] GET /api/lights
+[April 5th 2016, 10:14:26 am] Authenticating...
+[April 5th 2016, 10:14:26 am] Error: SQLITE_ERROR: no such table: user
+    at Error (native)
+--> in Database#get('SELECT COUNT(username) AS num FROM user WHERE access=\'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJNT0VERVIiLCJleHAiOjE0NTk1MjUwODY4NDB9.iPqhvwNdR8we53h6wQiJ_Q-5xJbDH7PHRJhtvAJFTDA\' AND username=\'MOEDER\';', [Function])
+    at /home/pi/miniproject/routes_api.js:35:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:410:3)
+[April 5th 2016, 10:14:26 am] GET /api/lights
+[April 5th 2016, 10:14:26 am] Authenticating...
+[April 5th 2016, 10:14:26 am] Error: SQLITE_ERROR: no such table: user
+    at Error (native)
+--> in Database#get('SELECT COUNT(username) AS num FROM user WHERE access=\'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJNT0VERVIiLCJleHAiOjE0NTk1MjUwODY4NDB9.iPqhvwNdR8we53h6wQiJ_Q-5xJbDH7PHRJhtvAJFTDA\' AND username=\'MOEDER\';', [Function])
+    at /home/pi/miniproject/routes_api.js:35:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:410:3)
+[April 5th 2016, 10:16:52 am] Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:874:11)
+    at exports._exceptionWithHostPort (util.js:897:20)
+    at Server._listen2 (net.js:1234:14)
+    at listen (net.js:1270:10)
+    at Server.listen (net.js:1366:5)
+    at EventEmitter.listen (/home/pi/miniproject/node_modules/express/lib/application.js:617:24)
+    at Object.<anonymous> (/home/pi/miniproject/app.js:71:18)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+[April 5th 2016, 10:17:20 am] Listening server on port 8080
+[April 5th 2016, 10:17:20 am] GET /api/lights
+[April 5th 2016, 10:17:20 am] Authenticating...
+[April 5th 2016, 10:17:20 am] Error: SQLITE_ERROR: no such table: user
+    at Error (native)
+--> in Database#get('SELECT COUNT(username) AS num FROM user WHERE access=\'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJNT0VERVIiLCJleHAiOjE0NTk1MjUwODY4NDB9.iPqhvwNdR8we53h6wQiJ_Q-5xJbDH7PHRJhtvAJFTDA\' AND username=\'MOEDER\';', [Function])
+    at /home/pi/miniproject/routes_api.js:35:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:410:3)
+[April 5th 2016, 10:18:55 am] Listening server on port 8080
+[April 5th 2016, 10:18:55 am] GET /api/lights
+[April 5th 2016, 10:18:55 am] Authenticating...
+[April 5th 2016, 10:18:55 am] Error: SQLITE_ERROR: no such table: user
+    at Error (native)
+--> in Database#get('SELECT COUNT(username) AS num FROM user WHERE access=\'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJNT0VERVIiLCJleHAiOjE0NTk1MjUwODY4NDB9.iPqhvwNdR8we53h6wQiJ_Q-5xJbDH7PHRJhtvAJFTDA\' AND username=\'MOEDER\';', [Function])
+    at /home/pi/miniproject/routes_api.js:35:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:410:3)
+[April 5th 2016, 10:18:55 am] GET /api/lights
+[April 5th 2016, 10:18:55 am] Authenticating...
+[April 5th 2016, 10:18:55 am] Error: SQLITE_ERROR: no such table: user
+    at Error (native)
+--> in Database#get('SELECT COUNT(username) AS num FROM user WHERE access=\'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJNT0VERVIiLCJleHAiOjE0NTk1MjUwODY4NDB9.iPqhvwNdR8we53h6wQiJ_Q-5xJbDH7PHRJhtvAJFTDA\' AND username=\'MOEDER\';', [Function])
+    at /home/pi/miniproject/routes_api.js:35:10
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/pi/miniproject/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/pi/miniproject/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/pi/miniproject/node_modules/express/lib/router/layer.js:95:5)
+    at /home/pi/miniproject/node_modules/express/lib/router/index.js:277:22
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/pi/miniproject/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/pi/miniproject/node_modules/express/lib/router/index.js:410:3)
+[April 5th 2016, 10:20:21 am] Listening server on port 8080
+[April 5th 2016, 10:20:21 am] GET /api/lights
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] GET /api/light/yorick/off
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] GET /api/light/yorick/on
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] GET /api/lights
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: kenneth
+[April 5th 2016, 10:20:21 am] GET /api/lights
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] GPIO CHANGED: 1
+[April 5th 2016, 10:20:21 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:20:21 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:20:21 am] Turning off K - 1 (sleep:6)
+[April 5th 2016, 10:20:21 am] Turning off T - W (sleep:9)
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] GPIO CHANGED: 0
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] GET /api/lights
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] PUT /api/light
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] GET /api/lights
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] GPIO CHANGED: 1
+[April 5th 2016, 10:20:21 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:20:21 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:20:21 am] Turning off K - 1 (sleep:6)
+[April 5th 2016, 10:20:21 am] Turning off T - 6 (sleep:9)
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] GPIO CHANGED: 0
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] GET /api/lights
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] GET /api/lights
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] GET /api/lights
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] GET /api/lights
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] DELETE /api/light/Test
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] GET /api/lights
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] DELETE /api/light/hoi
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] GET /api/lights
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] POST /api/light
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] GET /api/lights
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] POST /api/light
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] GET /api/lights
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] POST /api/light
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] GET /api/lights
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] POST /api/light
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] GET /api/lights
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] POST /api/light
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] GET /api/lights
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] GET /api/light/yorick/on
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] GPIO CHANGED: 1
+[April 5th 2016, 10:20:21 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:20:21 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:20:21 am] Turning off A - 4 (sleep:6)
+[April 5th 2016, 10:20:21 am] Turning off B - 7 (sleep:9)
+[April 5th 2016, 10:20:21 am] Turning off T - 5 (sleep:12)
+[April 5th 2016, 10:20:21 am] Turning off E - 6 (sleep:15)
+[April 5th 2016, 10:20:21 am] Turning off W - 8 (sleep:18)
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] GPIO CHANGED: 0
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] GET /api/light/yorick/on
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] GET /api/light/yorick/on
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] DELETE /api/light/Hoer
+[April 5th 2016, 10:20:21 am] Authenticating...
+[April 5th 2016, 10:20:21 am] Found 1 valid users
+[April 5th 2016, 10:20:21 am] Userid: MOEDER
+[April 5th 2016, 10:20:21 am] GPIO CHANGED: 1
+[April 5th 2016, 10:20:21 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:20:21 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:20:21 am] Turning off A - 4 (sleep:6)
+[April 5th 2016, 10:20:21 am] Turning off B - 7 (sleep:9)
+[April 5th 2016, 10:20:21 am] Turning off T - 5 (sleep:12)
+[April 5th 2016, 10:20:21 am] Turning off E - 6 (sleep:15)
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:20:21 am] GPIO CHANGED: 0
+[April 5th 2016, 10:20:21 am] Executing a command
+[April 5th 2016, 10:49:10 am] Listening server on port 8080
+[April 5th 2016, 10:49:10 am] GET /api/lights
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: MOEDER
+[April 5th 2016, 10:49:10 am] GET /api/lights
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: MOEDER
+[April 5th 2016, 10:49:10 am] GET /api/light/yorick/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: MOEDER
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] DELETE /api/light/Een
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: MOEDER
+[April 5th 2016, 10:49:10 am] POST /api/register
+[April 5th 2016, 10:49:10 am] POST /api/login
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Turning off A - 4 (sleep:6)
+[April 5th 2016, 10:49:10 am] Turning off B - 7 (sleep:9)
+[April 5th 2016, 10:49:10 am] Turning off T - 5 (sleep:12)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Turning off A - 4 (sleep:6)
+[April 5th 2016, 10:49:10 am] Turning off B - 7 (sleep:9)
+[April 5th 2016, 10:49:10 am] Turning off T - 5 (sleep:12)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Turning off A - 4 (sleep:6)
+[April 5th 2016, 10:49:10 am] Turning off B - 7 (sleep:9)
+[April 5th 2016, 10:49:10 am] Turning off T - 5 (sleep:12)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Turning off A - 4 (sleep:6)
+[April 5th 2016, 10:49:10 am] Turning off B - 7 (sleep:9)
+[April 5th 2016, 10:49:10 am] Turning off T - 5 (sleep:12)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Turning off A - 4 (sleep:6)
+[April 5th 2016, 10:49:10 am] Turning off B - 7 (sleep:9)
+[April 5th 2016, 10:49:10 am] Turning off T - 5 (sleep:12)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] POST /api/register
+[April 5th 2016, 10:49:10 am] POST /api/register
+[April 5th 2016, 10:49:10 am] POST /api/login
+[April 5th 2016, 10:49:10 am] GET /api/lights
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/yorick/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/off
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Turning off A - 4 (sleep:6)
+[April 5th 2016, 10:49:10 am] Turning off B - 7 (sleep:9)
+[April 5th 2016, 10:49:10 am] Turning off T - 5 (sleep:12)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Turning off A - 4 (sleep:6)
+[April 5th 2016, 10:49:10 am] Turning off B - 7 (sleep:9)
+[April 5th 2016, 10:49:10 am] Turning off T - 5 (sleep:12)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] DELETE /api/light/kenneth
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] DELETE /api/light/Moeder
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] DELETE /api/light/yorick
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] DELETE /api/light/Je
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] DELETE /api/light/Is
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] POST /api/light
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/lights
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/yorick/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/yorick/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/yorick/off
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/yorick/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/lights
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] POST /api/light
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/lights
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] PUT /api/light
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/lights
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off Z - 32 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/off
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] PUT /api/light
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/lights
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off N - 32 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] PUT /api/light
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/lights
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off N - 16 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/off
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/off
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/off
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/off
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/off
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/off
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/off
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/off
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] PUT /api/light
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/lights
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/off
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/off
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: kenny
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Listening server on port 8080
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /
+[April 5th 2016, 10:49:10 am] GET /favicon.ico
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/lights
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: MOEDER
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/yorick/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: MOEDER
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: MOEDER
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/off
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: MOEDER
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/off
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: MOEDER
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/on
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: MOEDER
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GET /api/light/kenneth/off
+[April 5th 2016, 10:49:10 am] Authenticating...
+[April 5th 2016, 10:49:10 am] Found 1 valid users
+[April 5th 2016, 10:49:10 am] Userid: MOEDER
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] GET /
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 1
+[April 5th 2016, 10:49:10 am] Turning off M - 14 (sleep:0)
+[April 5th 2016, 10:49:10 am] Turning off M - 12 (sleep:3)
+[April 5th 2016, 10:49:10 am] Executing a command
+[April 5th 2016, 10:49:10 am] GPIO CHANGED: 0
